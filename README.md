@@ -1,5 +1,3 @@
-﻿﻿# Polish translation for RimWorld. 
-
 
 # Wersja 1.0:  
 Trwają prace nad tłumaczeniem...
