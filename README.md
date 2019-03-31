@@ -5,11 +5,13 @@
 Trają prace nad tłumaczeniem...
 
 Pobierz wersję beta:
-https://github.com/Arczi008TV/RimWorld-Polish
+https://github.com/Arczi008TV/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
 
 
 
 --------
+Poprzednio:
+
 Pobierz aktualną wersję tłumaczenia:  
 https://github.com/Ludeon/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
 
