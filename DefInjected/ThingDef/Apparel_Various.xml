@@ -37,9 +37,9 @@
   <Apparel_Jacket.description>TODO</Apparel_Jacket.description>
   
   <!-- EN: pants -->
-  <Apparel_Pants.label>TODO</Apparel_Pants.label>
+  <Apparel_Pants.label>spodnie</Apparel_Pants.label>
   <!-- EN: A simple set of pants. -->
-  <Apparel_Pants.description>TODO</Apparel_Pants.description>
+  <Apparel_Pants.description>Prosta para spodni.</Apparel_Pants.description>
   
   <!-- EN: parka -->
   <Apparel_Parka.label>TODO</Apparel_Parka.label>

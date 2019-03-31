@@ -7,7 +7,7 @@
   <ColoredLights.description>Pozwala budować kolorowe światła w celach dekoracyjnych.</ColoredLights.description>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>płaski telewizor</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
@@ -22,9 +22,9 @@
   <HospitalBed.description>Pozwala budować łóżka szpitalne, które zwiększają jakość udzielanej pomocy medycznej.</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>dalekozasięgowy skaner minerałów</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>dalekosiężny skaner minerałów</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>Pozwala budować dalekozasięgowe skanery minerałów, które automatycznie wykrywają kosztowne surowce, złoto lub jadeit, na pobliskich terenach (ale nie bezpośrednio pod sobą).\n\nZłoża są znajdywane średnio jeden raz na 30 dni w promieniu 30 komórek.\n\nWybudowanie więcej niż jednego skanera na tym samym lub pobliskim obszarze ma bardzo słaby efekt lub w ogóle.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Pozwala budować dalekosiężne skanery minerałów, które automatycznie wykrywają kosztowne surowce, złoto lub jadeit, na pobliskich terenach (ale nie bezpośrednio pod sobą).\n\nZłoża są znajdywane średnio jeden raz na 30 dni w promieniu 30 komórek.\n\nWybudowanie więcej niż jednego skanera na tym samym lub pobliskim obszarze ma bardzo słaby efekt lub w ogóle.</LongRangeMineralScanner.description>
   
   <!-- EN: medicine production -->
   <MedicineProduction.label>produkcja leków</MedicineProduction.label>

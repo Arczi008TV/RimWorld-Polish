@@ -61,9 +61,9 @@
   <TraderArrival>Statek handlowy przelatuje w okolicy.\n\nZnani są jako {0}. Oni są {1}.</TraderArrival>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>W okolicy podróżuje {0} z {1}. [PAWN_pronoun] nazywa się {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>W okolicy podróżuje {0} z frakcji {1}. [PAWN_pronoun] nazywa się {2}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
-  <GroupTravelersPassing>Grupa podróżników z {0} podróżuje w okolicy.</GroupTravelersPassing>
+  <GroupTravelersPassing>Grupa podróżników z frakcji {0} podróżuje w okolicy.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Gość</LetterLabelSingleVisitorArrives>
@@ -162,7 +162,7 @@
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>{0} z {1}</LetterLabelTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{0} z frakcji {1}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
   <LetterTraderCaravanArrival>Karawana z {0} się zbliża. Są to {1}.\n\nHandlarz zatrzyma się w pobliżu na kilka dni. Możesz go zaatakować, ale to rozzłości jego frakcję!</LetterTraderCaravanArrival>
   
