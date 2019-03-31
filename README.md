@@ -1,6 +1,5 @@
-# Polish translation for RimWorld.
+# Polish translation for RimWorld 1.0.
  
-# Wersja 1.0:  
 Trwają prace nad tłumaczeniem...
 
 Pobierz wersję beta:  
