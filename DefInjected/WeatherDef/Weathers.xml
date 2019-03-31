@@ -1,29 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <Clear.label>pogodnie</Clear.label>
-  <Clear.description>Czyste niebo. Pogoda jest neutralna dla kolonistów.</Clear.description>
+  <!-- EN: clear -->
+  <Clear.label>TODO</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>TODO</Clear.description>
   
-  <Fog.label>mgła</Fog.label>
-  <Fog.description>Mgła zmniejsza celność broni zasięgowej.</Fog.description>
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>TODO</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>TODO</DryThunderstorm.description>
   
-  <Rain.label>deszcz</Rain.label>
-  <Rain.description>Deszcz zmniejsza celność broni zasięgowej, gasi ogień i spowalnia ludzi.</Rain.description>
+  <!-- EN: fog -->
+  <Fog.label>TODO</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>TODO</Fog.description>
   
-  <DryThunderstorm.label>sucha burza</DryThunderstorm.label>
-  <DryThunderstorm.description>Sucha burza jest niebezpieczna, ponieważ nie ma deszczu, który zgasiłby wywołany piorunami pożar.</DryThunderstorm.description>
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>TODO</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>TODO</FoggyRain.description>
   
-  <RainyThunderstorm.label>burza</RainyThunderstorm.label>
-  <RainyThunderstorm.description>Pioruny wzniecą pożar, ale deszcz go zgasi. Dodatkowo deszcz zmniejsza celność i spowalnia ludzi.</RainyThunderstorm.description>
+  <!-- EN: rain -->
+  <Rain.label>TODO</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>TODO</Rain.description>
   
-  <FoggyRain.label>deszcz i mgła</FoggyRain.label>
-  <FoggyRain.description>Deszcz i mgła zmniejszają celność i spowalniają ludzi.</FoggyRain.description>
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>TODO</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>TODO</RainyThunderstorm.description>
   
-  <SnowHard.label>zamieć śnieżna</SnowHard.label>
-  <SnowHard.description>Śnieżyca redukuje celność broni zasięgowej, gasi pożary i spowalnia ludzi.</SnowHard.description>
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>TODO</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>TODO</SnowGentle.description>
   
-  <SnowGentle.label>śnieg</SnowGentle.label>
-  <SnowGentle.description>Śnieg redukuje celność broni zasięgowej, gasi pożary i spowalnia ludzi.</SnowGentle.description>
-  
+  <!-- EN: hard snow -->
+  <SnowHard.label>TODO</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>TODO</SnowHard.description>
   
 </LanguageData>

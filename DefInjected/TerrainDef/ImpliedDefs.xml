@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: surowy granite -->
+  <Granite_Rough.label>szorstki granit</Granite_Rough.label>
+  <!-- EN: Surowa, naturalna podłoga - granite. -->
+  <Granite_Rough.description>Szorstka naturalna podłoga z granitu.</Granite_Rough.description>
+  
+  <!-- EN: ociosany granite -->
+  <Granite_RoughHewn.label>ociosany granit</Granite_RoughHewn.label>
+  <!-- EN: Podłogę pokrywa grubo ciosany granite. -->
+  <Granite_RoughHewn.description>Szorstka ociosana podłoga z granitu.</Granite_RoughHewn.description>
+  
+  <!-- EN: wygładzony granite -->
+  <Granite_Smooth.label>gładki granit</Granite_Smooth.label>
+  <!-- EN: wygładzona podłoga - granite. -->
+  <Granite_Smooth.description>Wygładzona naturalna podłoga z granitu.</Granite_Smooth.description>
+  
+  <!-- EN: surowy limestone -->
+  <Limestone_Rough.label>szorstki wapień</Limestone_Rough.label>
+  <!-- EN: Surowa, naturalna podłoga - limestone. -->
+  <Limestone_Rough.description>Szorstka naturalna podłoga z wapienia.</Limestone_Rough.description>
+  
+  <!-- EN: ociosany limestone -->
+  <Limestone_RoughHewn.label>ociosany wapień</Limestone_RoughHewn.label>
+  <!-- EN: Podłogę pokrywa grubo ciosany limestone. -->
+  <Limestone_RoughHewn.description>Szorstka ociosana podłoga z wapienia.</Limestone_RoughHewn.description>
+  
+  <!-- EN: wygładzony limestone -->
+  <Limestone_Smooth.label>gładki wapień</Limestone_Smooth.label>
+  <!-- EN: wygładzona podłoga - limestone. -->
+  <Limestone_Smooth.description>Wygładzona naturalna podłoga z wapienia.</Limestone_Smooth.description>
+  
+  <!-- EN: surowy marble -->
+  <Marble_Rough.label>szorstki marmur</Marble_Rough.label>
+  <!-- EN: Surowa, naturalna podłoga - marble. -->
+  <Marble_Rough.description>Szorstka naturalna podłoga z marmuru.</Marble_Rough.description>
+  
+  <!-- EN: ociosany marble -->
+  <Marble_RoughHewn.label>ociosany marmur</Marble_RoughHewn.label>
+  <!-- EN: Podłogę pokrywa grubo ciosany marble. -->
+  <Marble_RoughHewn.description>Szorstka ociosana podłoga z  marmuru.</Marble_RoughHewn.description>
+  
+  <!-- EN: wygładzony marble -->
+  <Marble_Smooth.label>gładki marmur</Marble_Smooth.label>
+  <!-- EN: wygładzona podłoga - marble. -->
+  <Marble_Smooth.description>Wygładzona naturalna podłoga z marmuru.</Marble_Smooth.description>
+  
+  <!-- EN: surowy sandstone -->
+  <Sandstone_Rough.label>szorstki piaskowiec</Sandstone_Rough.label>
+  <!-- EN: Surowa, naturalna podłoga - sandstone. -->
+  <Sandstone_Rough.description>Szorstka naturalna podłoga z piaskowca.</Sandstone_Rough.description>
+  
+  <!-- EN: ociosany sandstone -->
+  <Sandstone_RoughHewn.label>ociosany piaskowiec</Sandstone_RoughHewn.label>
+  <!-- EN: Podłogę pokrywa grubo ciosany sandstone. -->
+  <Sandstone_RoughHewn.description>Szorstka ociosana podłoga z piaskowca.</Sandstone_RoughHewn.description>
+  
+  <!-- EN: wygładzony sandstone -->
+  <Sandstone_Smooth.label>gładki piaskowiec</Sandstone_Smooth.label>
+  <!-- EN: wygładzona podłoga - sandstone. -->
+  <Sandstone_Smooth.description>Wygładzona naturalna podłoga z piaskowca.</Sandstone_Smooth.description>
+  
+  <!-- EN: surowy slate -->
+  <Slate_Rough.label>szorstka skała łupkowa</Slate_Rough.label>
+  <!-- EN: Surowa, naturalna podłoga - slate. -->
+  <Slate_Rough.description>Szorstka naturalna podłoga ze skały łupkowej.</Slate_Rough.description>
+  
+  <!-- EN: ociosany slate -->
+  <Slate_RoughHewn.label>ociosana skała łupkowa</Slate_RoughHewn.label>
+  <!-- EN: Podłogę pokrywa grubo ciosany slate. -->
+  <Slate_RoughHewn.description>Szorstka ociosana podłoga ze skały łupkowej.</Slate_RoughHewn.description>
+  
+  <!-- EN: wygładzony slate -->
+  <Slate_Smooth.label>gładka skała łupkowa</Slate_Smooth.label>
+  <!-- EN: wygładzona podłoga - slate. -->
+  <Slate_Smooth.description>Wygładzona naturalna podłoga ze skały łupkowej.</Slate_Smooth.description>
+  
+</LanguageData>
