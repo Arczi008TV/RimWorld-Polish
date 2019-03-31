@@ -4,17 +4,17 @@
   <!-- EN: burn -->
   <Burn.label>oparzenie</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>{0} poparzył się na śmierć.</Burn.deathMessage>
+  <Burn.deathMessage>{0} umarł/a przez oparzenia.</Burn.deathMessage>
   
   <!-- EN: flame -->
   <Flame.label>ogień</Flame.label>
   <!-- EN: {0} has burned to death. -->
-  <Flame.deathMessage>{0} spłonął żywcem.</Flame.deathMessage>
+  <Flame.deathMessage>{0} umarł/a poprzez spalenie</Flame.deathMessage>
   
   <!-- EN: frostbite -->
   <Frostbite.label>odmrożenie</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0} uległa odmrożeniu.</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} umarł/a przez odmrożenia.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
   <TornadoScratch.label>zadraśnięcie</TornadoScratch.label>

@@ -26,7 +26,7 @@
   <!-- EN: out of range -->
   <OutOfRange>poza zasięgiem</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>TODO</TooClose>
+  <TooClose>zbyt blisko</TooClose>
   <!-- EN: cannot hit target -->
   <CannotHitTarget>nie można trafić w cel</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->

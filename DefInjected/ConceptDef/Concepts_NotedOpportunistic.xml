@@ -34,7 +34,7 @@
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>Uzależnienia</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>Możesz sprawdzać chęć wzięcia narkotyku przez kolonistę w jego zakładce potrzeb.\n\nDopóki poziom tej potrzeby wynosi 0, ich uzależnenie jest oznaczone jako zespół odstawienny, co może miec negatywne efekty uboczne.\n\nJeśli zespół odstawienny będzie trwał wystarczająco długo, uzależnienie od narkotyku się skończy, a potrzeba jego przyjmowania zniknie.</DrugAddiction.helpText>
+  <DrugAddiction.helpText>Możesz sprawdzać chęć wzięcia narkotyku przez kolonistę w jego zakładce potrzeb.\n\nDopóki poziom tej potrzeby wynosi 0, ich uzależnenie jest oznaczone jako zespół odstawienny, co może mieć negatywne efekty uboczne.\n\nJeśli zespół odstawienny będzie trwał wystarczająco długo, uzależnienie od narkotyku się skończy, a potrzeba jego przyjmowania zniknie.</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
   <DrugBurning.label>Spalanie narkotyków</DrugBurning.label>
@@ -67,7 +67,7 @@
   <QueueOrders.helpText>TODO</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
-  <ReformCaravan.label>Przegrupownie karawan</ReformCaravan.label>
+  <ReformCaravan.label>Przegrupowanie karawan</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
   <ReformCaravan.helpText>Po spotkaniu możesz łatwo przegrupować karawanę, używając komendy "przegrupuj karawanę" w widoku Świata.</ReformCaravan.helpText>
   
@@ -89,6 +89,6 @@
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>Telewizja dla chorych</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>Chorzy moga oglądać telewizję, gdy leżą w łóżku.</TVForSickPeople.helpText>
+  <TVForSickPeople.helpText>Chorzy mogą oglądać telewizję, gdy leżą w łóżku.</TVForSickPeople.helpText>
   
 </LanguageData>

@@ -5,7 +5,7 @@
   <BestStockpile.label>zabierz do najlepszego składowiska</BestStockpile.label>
   
   <!-- EN: drop on floor -->
-  <DropOnFloor.label>rzucaj na podłogę</DropOnFloor.label>
+  <DropOnFloor.label>wyrzuć na ziemię</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
   <SpecificStockpile.label>TODO</SpecificStockpile.label>
