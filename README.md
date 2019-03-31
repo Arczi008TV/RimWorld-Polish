@@ -1,6 +1,13 @@
 # Polish translation for RimWorld 1.0.
  
 Trwają prace nad tłumaczeniem...
+Do poprawy zwroty takie jak. Zainspirowany.  Jak wiadomo, w grze występują kobiety. Wypadało by jakoś to odmienić.
+"Ona będzie pracował szybciej" 
+
+Został zainspirowany zmieniłem na doznał/a inspiracji. To już jakiś postęp, nie wiem czy sie da jakoś takie wyrazy podmieniać. By dopasować do płci.
+
+
+
 
 Pobierz wersję beta:  
 https://github.com/Arczi008TV/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
@@ -9,6 +16,8 @@ https://github.com/Arczi008TV/RimWorld-Polish (przycisk Clone or Download -> Dow
 
 --------
 Poprzednio:
+
+# Polish translation for RimWorld
 
 Pobierz aktualną wersję tłumaczenia:  
 https://github.com/Ludeon/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
