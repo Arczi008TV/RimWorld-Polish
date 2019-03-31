@@ -1,4 +1,15 @@
-﻿# Polish translation for RimWorld. 
+﻿﻿# Polish translation for RimWorld.
+ 
+# Wersja 1.0:  
+Trwają prace nad tłumaczeniem...
+
+Pobierz wersję beta:  
+https://github.com/Arczi008TV/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
+
+
+
+--------
+Poprzednio:
 
 Pobierz aktualną wersję tłumaczenia:  
 https://github.com/Ludeon/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
