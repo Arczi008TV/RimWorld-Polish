@@ -9,18 +9,18 @@
   <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
   
   <!-- EN: build roofs -->
-  <BuildRoofs.label>TODO</BuildRoofs.label>
+  <BuildRoofs.label>buduj dachy</BuildRoofs.label>
   <!-- EN: building roof -->
-  <BuildRoofs.gerund>TODO</BuildRoofs.gerund>
+  <BuildRoofs.gerund>budowaniem dachu</BuildRoofs.gerund>
   <!-- EN: build roof -->
-  <BuildRoofs.verb>TODO</BuildRoofs.verb>
+  <BuildRoofs.verb>budować dach</BuildRoofs.verb>
   
   <!-- EN: chat with prisoners -->
-  <ChatWithPrisoner.label>TODO</ChatWithPrisoner.label>
+  <ChatWithPrisoner.label>rozmawiaj z więźniami</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
-  <ChatWithPrisoner.gerund>TODO</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.gerund>rozmową z</ChatWithPrisoner.gerund>
   <!-- EN: chat with -->
-  <ChatWithPrisoner.verb>TODO</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.verb>rozmawiać z więźniem</ChatWithPrisoner.verb>
   
   <!-- EN: clear snow -->
   <CleanClearSnow.label>TODO</CleanClearSnow.label>
@@ -240,14 +240,14 @@
   <DoBillsUseCraftingSpot.verb>TODO</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
-  <DoctorFeedAnimals.label>TODO</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.label>karm zwierzęta</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
   <DoctorFeedAnimals.gerund>TODO</DoctorFeedAnimals.gerund>
   <!-- EN: feed -->
   <DoctorFeedAnimals.verb>TODO</DoctorFeedAnimals.verb>
   
   <!-- EN: feed patients -->
-  <DoctorFeedHumanlikes.label>TODO</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.label>karm pacjentów</DoctorFeedHumanlikes.label>
   <!-- EN: feeding -->
   <DoctorFeedHumanlikes.gerund>TODO</DoctorFeedHumanlikes.gerund>
   <!-- EN: feed -->
@@ -443,11 +443,11 @@
   <PatientGoToBedTreatment.verb>TODO</PatientGoToBedTreatment.verb>
   
   <!-- EN: cut plants -->
-  <PlantsCut.label>Wycinaj rośliny</PlantsCut.label>
+  <PlantsCut.label>wycinaj rośliny</PlantsCut.label>
   <!-- EN: cutting -->
   <PlantsCut.gerund>wycinaniem</PlantsCut.gerund>
   <!-- EN: cut -->
-  <PlantsCut.verb>Wyciąć</PlantsCut.verb>
+  <PlantsCut.verb>wyciąć</PlantsCut.verb>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>TODO</RearmTurrets.label>
@@ -471,21 +471,21 @@
   <ReleasePrisoner.verb>TODO</ReleasePrisoner.verb>
   
   <!-- EN: remove roofs -->
-  <RemoveRoofs.label>TODO</RemoveRoofs.label>
+  <RemoveRoofs.label>usuwaj dachy</RemoveRoofs.label>
   <!-- EN: removing roof -->
   <RemoveRoofs.gerund>TODO</RemoveRoofs.gerund>
   <!-- EN: remove roof -->
   <RemoveRoofs.verb>TODO</RemoveRoofs.verb>
   
   <!-- EN: repair damaged things -->
-  <Repair.label>TODO</Repair.label>
+  <Repair.label>naprawiaj zniszczone obiekty</Repair.label>
   <!-- EN: repairing -->
   <Repair.gerund>TODO</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>TODO</Repair.verb>
   
   <!-- EN: do research -->
-  <Research.label>TODO</Research.label>
+  <Research.label>prowadź badania</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>TODO</Research.gerund>
   <!-- EN: research -->
@@ -499,25 +499,25 @@
   <Scan.verb>TODO</Scan.verb>
   
   <!-- EN: shear animals -->
-  <Shear.label>TODO</Shear.label>
+  <Shear.label>strzyż zwierzęta</Shear.label>
   <!-- EN: shearing -->
-  <Shear.gerund>TODO</Shear.gerund>
+  <Shear.gerund>strzyżeniem</Shear.gerund>
   <!-- EN: shear -->
-  <Shear.verb>TODO</Shear.verb>
+  <Shear.verb>strzyc</Shear.verb>
   
   <!-- EN: slaughter animals -->
-  <Slaughter.label>TODO</Slaughter.label>
+  <Slaughter.label>ubijaj zwierzęta</Slaughter.label>
   <!-- EN: slaughtering -->
-  <Slaughter.gerund>TODO</Slaughter.gerund>
+  <Slaughter.gerund>ubijaniem</Slaughter.gerund>
   <!-- EN: slaughter -->
-  <Slaughter.verb>TODO</Slaughter.verb>
+  <Slaughter.verb>ubić</Slaughter.verb>
   
   <!-- EN: strip corpses -->
-  <Strip.label>TODO</Strip.label>
+  <Strip.label>rozbieraj martwych</Strip.label>
   <!-- EN: stripping -->
-  <Strip.gerund>TODO</Strip.gerund>
+  <Strip.gerund>rozbieraniem</Strip.gerund>
   <!-- EN: strip -->
-  <Strip.verb>TODO</Strip.verb>
+  <Strip.verb>rozebrać</Strip.verb>
   
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>TODO</TakeBeerOutOfFermentingBarrel.label>

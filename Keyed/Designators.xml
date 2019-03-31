@@ -7,9 +7,9 @@
   <DesignatorCancelDesc>Oznacz plany budynków, wykopaliska, transport, zbiory i wszelkie inne prace które mają być anulowane.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>Wytnij rośliny</DesignatorCutPlants>
+  <DesignatorCutPlants>Wytnij roślinność</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>Oznacz rośliny do ścięcia i zniszczenia. Roślina zostanie całkowicie wycięta, a jadalne części zebrane.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Oznacz rośliny do ścięcia i zniszczenia. Roślina zostanie całkowicie wycięta, a jadalne części i surowce zebrane.</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Rozbierz</DesignatorDeconstruct>
@@ -22,7 +22,7 @@
   <DesignatorUninstallDesc>Oznacz do odinstalowania aby móc przenieść, sprzedać lub zainstalować przedmiot w innym miejscu.</DesignatorUninstallDesc>
 
   <!-- EN: Harvest -->
-  <DesignatorHarvest>Zbieraj plony</DesignatorHarvest>
+  <DesignatorHarvest>Zbierz plony</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
   <DesignatorHarvestDesc>Oznacz plony do zebrania aby zrobić z nich jedzenie lub inne produkty.</DesignatorHarvestDesc>
 

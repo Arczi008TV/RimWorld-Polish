@@ -679,7 +679,7 @@
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>Stan wzrostu {0}</PercentGrowth>
+  <PercentGrowth>Stan wzrostu: {0}</PercentGrowth>
   <!-- EN: Growth rate -->
   <GrowthRate>Tempo wzrostu</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
@@ -693,7 +693,7 @@
   <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>Nieodpowiednia temperatura. Nie rośnie.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Gotowe do zebrania.</ReadyToHarvest>
+  <ReadyToHarvest>Gotowe do zbioru.</ReadyToHarvest>
   <!-- EN: Mature. -->
   <Mature>Dojrzałe.</Mature>
   <!-- EN: Growing period -->

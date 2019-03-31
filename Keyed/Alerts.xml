@@ -114,7 +114,7 @@
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
   <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>TODO</bored>
+  <bored>znudzony</bored>
 
   <!-- EN: Boredom -->
   <Boredom>TODO</Boredom>

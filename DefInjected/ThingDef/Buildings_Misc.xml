@@ -79,7 +79,7 @@
   <Sarcophagus.description>TODO</Sarcophagus.description>
   
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>szafa na narzędzia</ToolCabinet.label>
+  <ToolCabinet.label>szafka z narzędziami</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
   <ToolCabinet.description>Zwiększa szybkość pracy gdy stoi obok stanowiska roboczego. Jedno miejsce pracy może być podłączone tylko do dwóch szafek z narzędziami.</ToolCabinet.description>
   
