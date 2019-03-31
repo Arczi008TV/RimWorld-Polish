@@ -37,11 +37,11 @@
   <!-- EN: Social -->
   <TabSocial>Relacje</TabSocial>
   <!-- EN: Log -->
-  <TabLog>TODO</TabLog>
+  <TabLog>Log</TabLog>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <TabFormingCaravan>Karawana</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>TODO</TabTransporterContents>
+  <TabTransporterContents>Treść</TabTransporterContents>
 
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -51,31 +51,31 @@
   <!-- EN: Min skill -->
   <MinimumSkill>Min. poziom umiejętności</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>ZAWIESZONE</SuspendedCaps>
+  <SuspendedCaps>WSTRZYMANE</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>Pracownik: {0}</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>Sadzić</PlantVerb>
+  <PlantVerb>Sadzenie</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>Skopiowane zlecenie nie może być tutaj wklejone</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <ReorderBillUpTip>Przesuń w górę</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <ReorderBillDownTip>Przesuń w dól</ReorderBillDownTip>
   <!-- EN: Delete -->
-  <DeleteBillTip>TODO</DeleteBillTip>
+  <DeleteBillTip>Usuń</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
-  <CopyBillTip>TODO</CopyBillTip>
+  <CopyBillTip>Kopiuj do schowka</CopyBillTip>
   <!-- EN: Suspend -->
-  <SuspendBillTip>TODO</SuspendBillTip>
+  <SuspendBillTip>Wstrzymaj</SuspendBillTip>
   <!-- EN: Paste -->
-  <PasteBillTip>TODO</PasteBillTip>
+  <PasteBillTip>Wklej</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>nie można dodać więcej</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <RecruitmentResistance>Pozostały opór</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Trudność rekrutacji</RecruitmentDifficulty>
   <!-- EN: Gets food -->
@@ -115,7 +115,7 @@
   <!-- EN: Injured -->
   <Injured>Ranny</Injured>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>TODO</NoHealthConditions>
+  <NoHealthConditions>brak problemów zdrowotnych</NoHealthConditions>
   <!-- EN: Whole body -->
   <WholeBody>Całe ciało</WholeBody>
   <!-- EN: Data processing -->
@@ -139,11 +139,11 @@
   <!-- EN: Medical operations -->
   <MedicalOperations>Operacje chirurgiczne</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>Amputuj</Amputate>
+  <Amputate>amputuj</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>TODO</HarvestOrgan>
+  <HarvestOrgan>powycinaj</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>Usuń</RemoveOrgan>
+  <RemoveOrgan>usuń</RemoveOrgan>
   <!-- EN: memory -->
   <MemoryLower>pamięć</MemoryLower>
   <!-- EN: social interactions -->
@@ -193,9 +193,9 @@
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>TODO</Trainability>
+  <Trainability>Podatność treningowa</Trainability>
   <!-- EN: Requires trainability {0}. -->
-  <CannotTrainNotSmartEnough>Wymagana inteligencja: {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>Wymagana podatność treningowa: {0}.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
   <CannotTrainTooSmall>{0} jest zbyt mały, żeby się tego nauczyć.</CannotTrainTooSmall>
 
@@ -224,7 +224,7 @@
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
-  <OverallArmor>TODO</OverallArmor>
+  <OverallArmor>Całkowity pancerz</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
   <MassCarried>Udźwig: {0} / {1} kg</MassCarried>
   <!-- EN: Comfortable temperature range -->
@@ -238,11 +238,11 @@
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>TODO</ShowAll>
+  <ShowAll>Pokaż wszystko</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>TODO</ShowCombat>
+  <ShowCombat>Pokaż bitewne</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>TODO</ShowSocial>
+  <ShowSocial>Pokaż towarzyskie</ShowSocial>
   <!-- EN: no recent entries -->
   <NoRecentEntries>TODO</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
@@ -274,13 +274,13 @@
   <!-- EN: Members -->
   <CaravanMembers>TODO</CaravanMembers>
   <!-- EN: Animals -->
-  <CaravanAnimals>TODO</CaravanAnimals>
+  <CaravanAnimals>Zwierzęta</CaravanAnimals>
   <!-- EN: Items to load -->
-  <ItemsToLoad>TODO</ItemsToLoad>
+  <ItemsToLoad>Przedmioty do załadowania</ItemsToLoad>
   <!-- EN: Loaded items -->
-  <LoadedItems>TODO</LoadedItems>
+  <LoadedItems>Załadowane przedmioty</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <PackAnimalsCountLower>zapakuj zwierzęta</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>TODO</InMentalStateCountLower>
 
@@ -289,13 +289,5 @@
   <RemoveSliderText>TODO</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
-
-  <!-- UNUSED -->
-  <TabCombat>Walka</TabCombat>
-  <NoInjuries>(bez obrażeń)</NoInjuries>
-  <Harvest>Wytnij</Harvest>
-  <TrainableIntelligence>Inteligencja</TrainableIntelligence>
-  <AverageArmor>Średni pancerz</AverageArmor>
-  <ArmorElectric>Elektryczność</ArmorElectric>
 
 </LanguageData>

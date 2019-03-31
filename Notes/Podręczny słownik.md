@@ -1,3 +1,7 @@
+zlecenie (Bill)
+
+
+
 nowa linijka - dwie spacje
 #Ogólne
 insekt (Insect)  

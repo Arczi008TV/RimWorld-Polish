@@ -221,7 +221,7 @@
   <!-- EN: Construction needed -->
   <ConstructionNeeded>Wymagana konstrukcja</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithConstructionSkillTip>Żaden z twoich {0} nie posiada tej umiejętnośći.</NoColonistWithConstructionSkillTip>
+  <NoColonistWithConstructionSkillTip>Żaden z twoich {0} nie posiada tej umiejętności.</NoColonistWithConstructionSkillTip>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>Każdy z twoich {0} który ma taką umiejętność nie jest przypisany do {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
