@@ -4,7 +4,7 @@
 # Wersja 1.0:  
 Trwają prace nad tłumaczeniem...
 
-Pobierz wersję beta:
+Pobierz wersję beta:  
 https://github.com/Arczi008TV/RimWorld-Polish (przycisk Clone or Download -> Download zip).  
 
 
