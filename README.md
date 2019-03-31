@@ -26,8 +26,8 @@ Jeśli chcesz pomóc pisz śmiało.
 * piotrulos  
 
 # Past project crew (last year)
-* Nika "Nalthe" Borto [www.RimWorldPolska.pl]
-* Kunegard [www.RimWorldPolska.pl]
+* Nika "Nalthe" Borto
+* Kunegard
 * westwinnd
 * Marcin "Mareo" Zdziarski
 * Mateusz "Fejm" Filipczak
