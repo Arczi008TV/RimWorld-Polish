@@ -244,9 +244,9 @@
   <!-- EN: Show social -->
   <ShowSocial>Pokaż towarzyskie</ShowSocial>
   <!-- EN: no recent entries -->
-  <NoRecentEntries>TODO</NoRecentEntries>
+  <NoRecentEntries>brak ostatnich wpisów</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
-  <CopyLogTip>TODO</CopyLogTip>
+  <CopyLogTip>Kopiuj log do schowka</CopyLogTip>
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
@@ -272,7 +272,7 @@
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>TODO</CaravanMembers>
+  <CaravanMembers>Członkowie</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>Zwierzęta</CaravanAnimals>
   <!-- EN: Items to load -->
@@ -282,7 +282,7 @@
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>zapakuj zwierzęta</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+  <InMentalStateCountLower>załamany psychicznie</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->

@@ -7,12 +7,12 @@
   <CarryingCapacity.description>Ilość rzeczy, jaką ta postać może przenosić w rękach, pysku itp. Jest ona oddzielona od zdolności transportu ładunku na długich wyprawach po świecie.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
-  <ComfyTemperatureMax.label>Maksymalna komfortowa temperatura</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>Maksymalna komfortowa temp.</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>Koloniści będą niezadowoleni, gdy temperatura wzrośnie powyżej tej wartości. Jeżeli wzrost będzie zbyt duży, może się to skończyć udarem słonecznym i w ostateczności śmiercią.</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
-  <ComfyTemperatureMin.label>Minimalna komfortowa temperatura</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.label>Minimalna komfortowa temp.</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>Koloniści będą niezadowoleni, gdy temperatura spadnie poniżej tej wartości. Jeżeli spadek będzie zbyt duży, może się to skończyć wyziębieniem organizmu i odmrożeniami, a w ostateczności śmiercią.</ComfyTemperatureMin.description>
   
