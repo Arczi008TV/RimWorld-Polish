@@ -5,7 +5,7 @@ Do poprawy zwroty takie jak "Zainspirowany"  Jak wiadomo, w grze występują kob
 Przykład "Ona będzie pracował szybciej" - tak być nie może.
 
 
-"Został zainspirowany" zmieniłem na "doznał/a inspiracji". To już lepiej brzmi, nie wiem czy się da jakoś takie wyrazy podmieniać. By dopasować je do płci.
+"Został zainspirowany" zmieniłem na "doznał/a inspiracji". To już lepiej brzmi, nie wiem czy się da jakoś takie wyrazy podmieniać, by dopasować je do płci.
 
 
 Pobierz wersję beta:  
