@@ -131,7 +131,7 @@
   <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>Ustaw docelową ilość paliwa na {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Ustaw docelową ilość paliwa na {0}.\nMaksymalna odległość: {1} pół</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Ustaw docelową ilość paliwa na {0}\nMaksymalna odległość: {1} pół</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>Docelowy poziom paliwa: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
@@ -207,9 +207,9 @@
   <!-- EN: Attacking {0}. -->
   <CaravanAttacking>Atakuje {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>Oferuje podarunki dla</CaravanOfferingGifts>
+  <CaravanOfferingGifts>Oferuje podarunki dla {0}.</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Po zmarłej osobie.</WasWornByCorpse>
+  <WasWornByCorpse>Skażone bo było założone na zwłokach.</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>D</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -257,15 +257,15 @@
   <!-- EN: Closed -->
   <VentClosed>Zamknięte</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>noszone przez {0}</WornBy>
+  <WornBy>noszone przez {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>wyposażone przez {0}</EquippedBy>
+  <EquippedBy>wyposażone przez {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} chce, aby to zniszczyć.\n     Nagroda: {1}.</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} chce, aby to zniszczyć.\n     Nagroda: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Pozostały czas: {0}</WorldObjectTimeout>
   <!-- EN: Contents: {0} ({1}) -->
-  <ItemStashContents>Zawartość: {0}.</ItemStashContents>
+  <ItemStashContents>Zawartość: {0} ({1})</ItemStashContents>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Kliknij, aby posortować według tej kolumny.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
@@ -277,11 +277,11 @@
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
   <CheckboxShiftClickTip>Shift + kliknięcie: zaznacz wszystko.\nShift + kliknięcie prawym przyciskiem myszy: odznacz wszystko.</CheckboxShiftClickTip>
   <!-- EN: Known threat: {0} -->
-  <KnownSiteThreat>Zagrożenie: {0}.</KnownSiteThreat>
+  <KnownSiteThreat>Zagrożenie: {0}</KnownSiteThreat>
   <!-- EN: Known threats: {0} -->
-  <KnownSiteThreats>Zagrożenia: {0}.</KnownSiteThreats>
+  <KnownSiteThreats>Zagrożenia: {0}</KnownSiteThreats>
   <!-- EN: Threats: Unknown -->
-  <KnownSiteThreatsNone>Zagrożenia: brak.</KnownSiteThreatsNone>
+  <KnownSiteThreatsNone>Zagrożenia: brak</KnownSiteThreatsNone>
   <!-- EN: Skill Requirements -->
   <SkillRequirements>Wymagane umiejętności</SkillRequirements>
   <!-- EN: Products -->
@@ -317,7 +317,7 @@
   <!-- EN: to -->
   <RangeTo>do</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <NoDietCategoryLetter>Brak listu</NoDietCategoryLetter>
   <!-- EN: Expires in -->
   <ExpiresIn>Wygasa za</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
@@ -327,19 +327,19 @@
   <!-- EN: Relations with {0} -->
   <RelationsWith>Relacje z {0}</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>TODO</capturedBy>
+  <capturedBy>schwytany przez {0}</capturedBy>
   <!-- EN: your caravan -->
   <yourCaravan>twoja karawana</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>TODO</CreatureWildness>
+  <CreatureWildness>{0} dzicz</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>TODO</CreatureTrainability>
+  <CreatureTrainability>{0} trenowalność</CreatureTrainability>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} z {1}</ProximitySingleGoodwillChange>
   <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>TODO</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>TODO</Caravan>
+  <Caravan>Karawana</Caravan>
   <!-- EN: there may be danger there -->
   <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
   <!-- EN: lump of {0} -->
@@ -347,15 +347,15 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>TODO</Turret>
+  <Turret>wieżyczka</Turret>
   <!-- EN: turrets -->
-  <Turrets>TODO</Turrets>
+  <Turrets>wieżyczki</Turrets>
   <!-- EN: mortar -->
   <Mortar>TODO</Mortar>
   <!-- EN: mortars -->
   <Mortars>TODO</Mortars>
   <!-- EN: enemy -->
-  <Enemy>TODO</Enemy>
+  <Enemy>przeciwnik</Enemy>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
@@ -365,7 +365,7 @@
   <!-- EN: Fermented -->
   <Fermented>Sfermentowany</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Postęp: {0} (pozostało {1}).</FermentationProgress>
+  <FermentationProgress>Postęp: {0} (pozostało {1})</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
   <FermentationBarrelOutOfIdealTemperature>Nieodpowiednia temperatura. Szybkość fermentacji: {0}</FermentationBarrelOutOfIdealTemperature>
 
@@ -403,7 +403,7 @@
   <!-- EN: {0} tended -->
   <TextMote_Tended>{0} opatrzone</TextMote_Tended>
   <!-- EN: low mood -->
-  <lowMood>zły nastruj</lowMood>
+  <lowMood>zły nastrój</lowMood>
   <!-- EN: low opinion -->
   <lowOpinion>zła opinia</lowOpinion>
 
@@ -429,11 +429,11 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Nie można rozkazywać niekontrolowanym jednostkom.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{0} jest niezdolny do przemocy.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort jest niezdolny do przemocy.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>niezdolny do przemocy.</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>niezdolny do przemocy</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{0} nie został powołany</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} nie został powołany</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -451,7 +451,7 @@
   <!-- EN: Installed -->
   <GunInstalled>Zainstalowano</GunInstalled>
   <!-- EN: Minimum range -->
-  <MinimumRange>Min. zasięg:</MinimumRange>
+  <MinimumRange>Min. zasięg</MinimumRange>
   <!-- EN: Can fire in -->
   <CanFireIn>Może strzelać za</CanFireIn>
   <!-- EN: Cannot fire -->
@@ -459,15 +459,15 @@
   <!-- EN: roofed -->
   <Roofed>zadaszony</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Załadowany pocisk: {0}</ShellLoaded>
+  <ShellLoaded>Załadowany pocisk: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Niezaładowany</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>transportuje {0} do {1}.</ReportHaulingTo>
+  <ReportHaulingTo>transportuje {THING_label} do {DESTINATION}.</ReportHaulingTo>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>transportuje {0}.</ReportHauling>
+  <ReportHauling>transportuje {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>transportuje.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -497,7 +497,7 @@
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>gasi ogień.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>gasi ogień na {0}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>gasi ogień na {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>wykopuje zwłoki.</ReportDiggingUpCorpse>
 
@@ -527,7 +527,7 @@
   <!-- EN: Cover -->
   <ShootingCover>Osłona</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{0} blokuje {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} blokuje {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>brak osłony</NoCoverLower>
   <!-- EN: Execution -->
@@ -535,7 +535,7 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>zrób {0}.</RecipeMake>
+  <RecipeMake>zrób {0}</RecipeMake>
   <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Robi {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
@@ -543,9 +543,9 @@
   <!-- EN: Administering {0}. -->
   <RecipeAdministerJobString>Zarządza {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>abstynent będzie nieszczęśliwy.</TeetotalerUnhappy>
+  <TeetotalerUnhappy>abstynent będzie nieszczęśliwy</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>naturalista będzie nieszczęśliwy.</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>naturalista będzie nieszczęśliwy</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
@@ -563,11 +563,11 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{1}, {PAWN_gender}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} z frakcji {1}</PawnMainDescFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Frakcja</Faction>
   <!-- EN: Equipped -->
@@ -667,7 +667,7 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Postrzelony przez {0}</ShotBy>
+  <ShotBy>Postrzelony przez {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Nie można trafić w cel.</CannotHit>
   <!-- EN: Manhunter chance per hit -->

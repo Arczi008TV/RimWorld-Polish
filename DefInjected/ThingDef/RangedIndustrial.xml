@@ -29,13 +29,13 @@
   <Bullet_Revolver.label>pocisk rewolweru</Bullet_Revolver.label>
   
   <!-- EN: shotgun blast -->
-  <Bullet_Shotgun.label>TODO</Bullet_Shotgun.label>
+  <Bullet_Shotgun.label>łuska strzelby</Bullet_Shotgun.label>
   
   <!-- EN: sniper rifle bullet -->
   <Bullet_SniperRifle.label>pocisk snajperki</Bullet_SniperRifle.label>
   
   <!-- EN: assault rifle -->
-  <Gun_AssaultRifle.label>TODO</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.label>karabin szturmowy</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
   <Gun_AssaultRifle.description>TODO</Gun_AssaultRifle.description>
   <!-- EN: stock -->
@@ -46,7 +46,7 @@
   <Gun_AssaultRifle.verbs.Verb_Shoot.label>TODO</Gun_AssaultRifle.verbs.Verb_Shoot.label>
   
   <!-- EN: autopistol -->
-  <Gun_Autopistol.label>TODO</Gun_Autopistol.label>
+  <Gun_Autopistol.label>autopistolet</Gun_Autopistol.label>
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
   <Gun_Autopistol.description>TODO</Gun_Autopistol.description>
   <!-- EN: grip -->

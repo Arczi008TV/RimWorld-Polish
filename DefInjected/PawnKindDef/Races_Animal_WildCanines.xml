@@ -90,15 +90,15 @@
   
   <!-- EN: warg -->
   <Warg.label>warg</Warg.label>
-  <Warg.labelFemalePlural>warga</Warg.labelFemalePlural>
-  <Warg.labelMale>warga</Warg.labelMale>
-  <Warg.labelMalePlural>warga</Warg.labelMalePlural>
+  <Warg.labelFemalePlural>warg</Warg.labelFemalePlural>
+  <Warg.labelMale>warg</Warg.labelMale>
+  <Warg.labelMalePlural>wargi</Warg.labelMalePlural>
   <Warg.labelPlural>wargi</Warg.labelPlural>
   <!-- EN: warg puppy -->
   <Warg.lifeStages.warg_puppy.label>warg</Warg.lifeStages.warg_puppy.label>
-  <Warg.lifeStages.warg_puppy.labelFemale>warga</Warg.lifeStages.warg_puppy.labelFemale>
+  <Warg.lifeStages.warg_puppy.labelFemale>warg</Warg.lifeStages.warg_puppy.labelFemale>
   <Warg.lifeStages.warg_puppy.labelFemalePlural>samice warga</Warg.lifeStages.warg_puppy.labelFemalePlural>
-  <Warg.lifeStages.warg_puppy.labelMale>warga</Warg.lifeStages.warg_puppy.labelMale>
+  <Warg.lifeStages.warg_puppy.labelMale>warg</Warg.lifeStages.warg_puppy.labelMale>
   <Warg.lifeStages.warg_puppy.labelMalePlural>samce warga</Warg.lifeStages.warg_puppy.labelMalePlural>
   <!-- EN: warg puppies -->
   <Warg.lifeStages.warg_puppy.labelPlural>wargi</Warg.lifeStages.warg_puppy.labelPlural>

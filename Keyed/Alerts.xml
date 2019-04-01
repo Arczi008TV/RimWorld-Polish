@@ -27,22 +27,22 @@
   <ColonistsNeedRescueDesc>Ci koloniści są nieprzytomni:\n\n{0}\nWyślij kogoś, aby przeniósł ich do łóżek i uratował im życie.\n\n(Aby uratować, wybierz innego kolonistę, a następnie kliknij prawym przyciskiem myszy na ofierze i użyj opcję Uratuj).</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>Potrzeba umocnień</NeedDefenses>
+  <NeedDefenses>Potrzebna obrona</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>Jesteś tu już jakiś czas i zapewne zostałeś zauważony. Niedługo zaczną atakować cię piraci.\n\nPowinieneś wznieść jakieś umocnienia.\n\nZbuduj parę wieżyczek.</NeedDefensesDesc>
+  <NeedDefensesDesc>Jesteś tu już jakiś czas i zapewne zostałeś zauważony. Niedługo zaczną atakować cię piraci.\n\nPowinieneś przygotować defensywę jak pułapki czy worki z piaskiem.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>Potrzeba lekarza</NeedDoctor>
+  <NeedDoctor>Potrzebny lekarz</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>Ci koloniści potrzebują opieki medycznej, ale nie masz obecnie żadnych zdrowych ludzi zdolnych im pomóc:\n\n{0}\nPrzypisz jakiegoś zdrowego kolonistę do pracy w zawodzie lekarza. Jeśli nie zaopiekujesz się pacjentami, mogą oni nie wyzdrowieć, a nawet zostać okaleczonymi na całe życie.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
-  <NeedMiner>Potrzeba górnika</NeedMiner>
+  <NeedMiner>Potrzebny górnik</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
   <NeedMinerDesc>Oznaczyłeś miejsca do wydobycia, ale żaden z kolonistów nie jest górnikiem.\n\nPrzypisz jakiegoś kolonistę do pracy wydobywczej.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
-  <NeedWarden>Potrzeba strażnika</NeedWarden>
+  <NeedWarden>Potrzebny strażnik</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
   <NeedWardenDesc>Masz więźnia, ale żaden z kolonistów nie jest strażnikiem.\n\nPrzypisz kolonistę do pracy strażnika.</NeedWardenDesc>
 
@@ -59,7 +59,7 @@
   <NoMedicineDesc>Nie masz już lekarstw.\n\nKup je od handlarzy albo wyhoduj zioła lecznicze.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>Potrzeba łóżek</NeedColonistBeds>
+  <NeedColonistBeds>Potrzebne łóżka</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>Masz więcej kolonistów niż łóżek, ktoś nie będzie miał gdzie spać.\n\nZrób więcej łóżek albo zmień łóżko więzienne w łóżko kolonisty.\n\nJeśli nie posiadasz wymaganych zasobów, możesz zawsze wyznaczyć miejsce do spania: za darmo i natychmiastowo.</NeedColonistBedsDesc>
 
@@ -99,12 +99,12 @@
   <NeedFoodHopperDesc>Masz dozownik pasty odżywczej, ale nie posiadasz zbiornika na żywność.\n\nDozowniki potrzebują do działania zbiornika z surową żywnością postawionego tuż przy nich.\n\nZbuduj zbiornik obok dozownika.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
-  <NeedMealSource>Potrzeba pożywienia</NeedMealSource>
+  <NeedMealSource>Potrzebne pożywienie</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
   <NeedMealSourceDesc>Twoi koloniści są głodni! Przygotuj posiłek z surowych składników.\n\nZbuduj piec kuchenny, kuchenkę elektryczną lub inną maszynę przetwarzającą jedzenie.</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Potrzeba rozrywki</NeedJoySource>
+  <NeedJoySource>Potrzebna rozrywka</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>Twoi koloniści potrzebują nieco zabawy, żeby móc normalnie pracować.\n\nPomóż im, umieszczając kołek do rzutu podkową, stół do szachów lub inny obiekt do zabaw.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
@@ -122,7 +122,7 @@
   <BoredomDesc>Ludzie ci albo potrzebują rekreacji, albo są przeznaczeni do rekreacji, ale znudzeni są wszystkimi dostępnymi źródłami rekreacji:\n\n{0}\n\nDaj im bardziej rekreacyjną różnorodność.\n\n Aktualnie dostępne typy rekreacji dla { PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>Potrzeba baterii</NeedBatteries>
+  <NeedBatteries>Potrzebne baterie</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
   <NeedBatteriesDesc>Masz panele słoneczne lub turbinę wiatrową, ale nie posiadasz baterii. Oznacza to, że tracisz energię za każdym razem gdy zachodzi słońce lub przestaje wiać.\n\nZbuduj jedną lub dwie baterie, aby przechowywać energię.</NeedBatteriesDesc>
 
@@ -137,7 +137,7 @@
   <ShieldUserHasRangedWeaponDesc>Jeden z kolonistów używających broni zasięgowej ma pas energetyczny. Nie będzie w stanie strzelać, chyba że przeciwnik znajdzie się tuż obok niego.</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>Potrzebujesz projektu do badań</NeedResearchProject>
+  <NeedResearchProject>Potrzebny projekt do badań</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc>Wybudowałeś stół do badań, ale nie wybrałeś projektu do realizacji.\n\nOtwórz menu badań i wybierz projekt.</NeedResearchProjectDesc>
   
@@ -184,7 +184,7 @@
   <HunterHasShieldAndRangedWeaponDesc>Jeden z twoich łowców ma pas energetyczny i broń zasięgową, co uniemożliwia mu strzelanie.\n\nNie będzie mógł strzelać, dopóki nie zdejmie tarczy.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>Potrzebujesz ciepłych ubrań</NeedWarmClothes>
+  <NeedWarmClothes>Potrzebne ciepłe ubrania</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1>Co najmniej {0} z kolonistów nie będzie miał ciepłych ubrań, gdy nadejdą zimniejsze pory roku.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->

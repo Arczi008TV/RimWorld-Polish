@@ -63,7 +63,7 @@
   <!-- EN: awful -->
   <QualityCategory_Awful>tandetny</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>zły</QualityCategory_Poor>
+  <QualityCategory_Poor>kiepski</QualityCategory_Poor>
   <!-- EN: normal -->
   <QualityCategory_Normal>normalny</QualityCategory_Normal>
   <!-- EN: good -->
@@ -77,7 +77,7 @@
   <!-- EN: awfl -->
   <QualityCategoryShort_Awful>tndt</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>zły</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>kpski</QualityCategoryShort_Poor>
   <!-- EN: norm -->
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <!-- EN: good -->

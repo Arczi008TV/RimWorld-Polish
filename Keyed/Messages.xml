@@ -51,15 +51,15 @@
   <MessageFullyHealed>{0} jest w pełni wyleczony.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>Więzień {0} ucieka.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Więzień {1_labelShort} ucieka.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>{0} nie może znaleźć amunicji do {1}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nie może znaleźć amunicji do {GUN_label}.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>Uwaga: {0} zazwyczaj zaatakuje, gdy się go zrani.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Uwaga: Jest {1} szans na to, że {ANIMAL_kindBasePlural} zaatakuje gdy się go zrani z dystansu. Szansa jest większa jeśli z bliższa, mniejsza z dobrym skradaniem myśliwego.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Uwaga: {0} może zaatakować przy nieudanej próbie oswojenia ({1} szans).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Uwaga: {ANIMAL_kindBasePlural} może zaatakować przy nieudanej próbie oswojenia ({1} szans).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Nowy rekrut</LetterLabelMessageRecruitSuccess>
@@ -155,7 +155,7 @@
   <MessageNuzzledPawnGaveNameTo>{0} nadał {1} imię: {2}.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>Żaden trener nie może oswoić {0}. (Wymaga poziomu {1} w {2}, najlepszy trener {3} ma {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Żaden trener nie może oswoić {ANIMAL_kindBase} (Wymaga poziomu {1} w kategorii {2}, najlepszy trener {3} ma {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
   <MessageEatenByPredator>{0} został zjedzony przez {1}.</MessageEatenByPredator>

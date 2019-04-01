@@ -4,7 +4,7 @@
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>ładowność</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>Ilość rzeczy, jaką ta postać może przenosić w rękach, pysku itp. Jest ona oddzielona od zdolności transportu ładunku na długich wyprawach po świecie.</CarryingCapacity.description>
+  <CarryingCapacity.description>Ilość rzeczy, jaką ta istota może przenosić w rękach, pysku itp. Jest ona oddzielona od zdolności transportu ładunku na długich wyprawach po świecie.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
   <ComfyTemperatureMax.label>Maksymalna komfortowa temp.</ComfyTemperatureMax.label>
@@ -19,7 +19,7 @@
   <!-- EN: eating speed -->
   <EatingSpeed.label>szybkość jedzenia</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
-  <EatingSpeed.description>Określa, jak szybko ta postać potrafi jeść.</EatingSpeed.description>
+  <EatingSpeed.description>Określa, jak szybko ta istota potrafi jeść.</EatingSpeed.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>ilość zebranej żywności</ForagedNutritionPerDay.label>

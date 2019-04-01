@@ -45,9 +45,9 @@
   <Restrict.description>Przypisz kolonistom określone zajęcia do danych pór dnia lub obszarów.</Restrict.description>
   
   <!-- EN: wildlife -->
-  <Wildlife.label>dzikie zwierzęta</Wildlife.label>
+  <Wildlife.label>fauna</Wildlife.label>
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
-  <Wildlife.description>TODO</Wildlife.description>
+  <Wildlife.description>Wypatrz dzikie zwierzęta na tym terenie i wyznacz je do polowania lub oswajania.</Wildlife.description>
   
   <!-- EN: work -->
   <Work.label>praca</Work.label>

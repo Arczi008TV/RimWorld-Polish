@@ -57,7 +57,7 @@
   <Raccoon.tools.head.label>TODO</Raccoon.tools.head.label>
   
   <!-- EN: rat -->
-  <Rat.label>TODO</Rat.label>
+  <Rat.label>szczur</Rat.label>
   <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
   <Rat.description>TODO</Rat.description>
   <!-- EN: left claw -->
@@ -68,7 +68,7 @@
   <Rat.tools.head.label>TODO</Rat.tools.head.label>
   
   <!-- EN: squirrel -->
-  <Squirrel.label>TODO</Squirrel.label>
+  <Squirrel.label>wiewiórka</Squirrel.label>
   <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
   <Squirrel.description>TODO</Squirrel.description>
   <!-- EN: left claw -->

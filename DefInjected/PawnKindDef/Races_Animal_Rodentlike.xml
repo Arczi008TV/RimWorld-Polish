@@ -2,185 +2,52 @@
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>alfabóbr</Alphabeaver.label>
-  <Alphabeaver.labelFemale>alfabóbr</Alphabeaver.labelFemale>
-  <Alphabeaver.labelFemalePlural>alfabobra</Alphabeaver.labelFemalePlural>
-  <Alphabeaver.labelMale>alfabóbr</Alphabeaver.labelMale>
-  <Alphabeaver.labelMalePlural>alfabobra</Alphabeaver.labelMalePlural>
-  <Alphabeaver.labelPlural>alfabobry</Alphabeaver.labelPlural>
-  <Alphabeaver.lifeStages.0.label>alfabóbr</Alphabeaver.lifeStages.0.label>
-  <Alphabeaver.lifeStages.0.labelFemale>alfabóbr</Alphabeaver.lifeStages.0.labelFemale>
-  <Alphabeaver.lifeStages.0.labelFemalePlural>alfabobra</Alphabeaver.lifeStages.0.labelFemalePlural>
-  <Alphabeaver.lifeStages.0.labelMale>alfabóbr</Alphabeaver.lifeStages.0.labelMale>
-  <Alphabeaver.lifeStages.0.labelMalePlural>alfabobra</Alphabeaver.lifeStages.0.labelMalePlural>
-  <Alphabeaver.lifeStages.0.labelPlural>alfabobry</Alphabeaver.lifeStages.0.labelPlural>
-  <Alphabeaver.lifeStages.1.label>alfabóbr</Alphabeaver.lifeStages.1.label>
-  <Alphabeaver.lifeStages.1.labelFemale>alfabóbr</Alphabeaver.lifeStages.1.labelFemale>
-  <Alphabeaver.lifeStages.1.labelFemalePlural>alfabobra</Alphabeaver.lifeStages.1.labelFemalePlural>
-  <Alphabeaver.lifeStages.1.labelMale>alfabóbr</Alphabeaver.lifeStages.1.labelMale>
-  <Alphabeaver.lifeStages.1.labelMalePlural>alfabobra</Alphabeaver.lifeStages.1.labelMalePlural>
-  <Alphabeaver.lifeStages.1.labelPlural>alfabobry</Alphabeaver.lifeStages.1.labelPlural>
-  <Alphabeaver.lifeStages.2.label>alfabóbr</Alphabeaver.lifeStages.2.label>
-  <Alphabeaver.lifeStages.2.labelFemale>alfabóbr</Alphabeaver.lifeStages.2.labelFemale>
-  <Alphabeaver.lifeStages.2.labelFemalePlural>alfabobra</Alphabeaver.lifeStages.2.labelFemalePlural>
-  <Alphabeaver.lifeStages.2.labelMale>alfabóbr</Alphabeaver.lifeStages.2.labelMale>
-  <Alphabeaver.lifeStages.2.labelMalePlural>alfabobra</Alphabeaver.lifeStages.2.labelMalePlural>
-  <Alphabeaver.lifeStages.2.labelPlural>alfabobry</Alphabeaver.lifeStages.2.labelPlural>
+  <Alphabeaver.label>TODO</Alphabeaver.label>
+  <Alphabeaver.labelPlural>TODO</Alphabeaver.labelPlural>
+  <Alphabeaver.lifeStages.0.label>TODO</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>TODO</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.2.label>TODO</Alphabeaver.lifeStages.2.label>
   
   <!-- EN: boomrat -->
-  <Boomrat.label>wybuchowy szczur</Boomrat.label>
-  <Boomrat.labelFemale>wybuchowy szczur</Boomrat.labelFemale>
-  <Boomrat.labelFemalePlural>wybuchowego szczura</Boomrat.labelFemalePlural>
-  <Boomrat.labelMale>wybuchowy szczur</Boomrat.labelMale>
-  <Boomrat.labelMalePlural>wybuchowego szczura</Boomrat.labelMalePlural>
-  <Boomrat.labelPlural>wybuchowe szczury</Boomrat.labelPlural>
-  <Boomrat.lifeStages.0.label>wybuchowy szczur</Boomrat.lifeStages.0.label>
-  <Boomrat.lifeStages.0.labelFemale>wybuchowy szczur</Boomrat.lifeStages.0.labelFemale>
-  <Boomrat.lifeStages.0.labelFemalePlural>wybuchowego szczura</Boomrat.lifeStages.0.labelFemalePlural>
-  <Boomrat.lifeStages.0.labelMale>wybuchowy szczur</Boomrat.lifeStages.0.labelMale>
-  <Boomrat.lifeStages.0.labelMalePlural>wybuchowego szczura</Boomrat.lifeStages.0.labelMalePlural>
-  <Boomrat.lifeStages.0.labelPlural>wybuchowe szczury</Boomrat.lifeStages.0.labelPlural>
-  <Boomrat.lifeStages.1.label>wybuchowy szczur</Boomrat.lifeStages.1.label>
-  <Boomrat.lifeStages.1.labelFemale>wybuchowy szczur</Boomrat.lifeStages.1.labelFemale>
-  <Boomrat.lifeStages.1.labelFemalePlural>wybuchowego szczura</Boomrat.lifeStages.1.labelFemalePlural>
-  <Boomrat.lifeStages.1.labelMale>wybuchowy szczur</Boomrat.lifeStages.1.labelMale>
-  <Boomrat.lifeStages.1.labelMalePlural>wybuchowego szczura</Boomrat.lifeStages.1.labelMalePlural>
-  <Boomrat.lifeStages.1.labelPlural>wybuchowe szczury</Boomrat.lifeStages.1.labelPlural>
-  <Boomrat.lifeStages.2.label>wybuchowy szczur</Boomrat.lifeStages.2.label>
-  <Boomrat.lifeStages.2.labelFemale>wybuchowy szczur</Boomrat.lifeStages.2.labelFemale>
-  <Boomrat.lifeStages.2.labelFemalePlural>wybuchowego szczura</Boomrat.lifeStages.2.labelFemalePlural>
-  <Boomrat.lifeStages.2.labelMale>wybuchowy szczur</Boomrat.lifeStages.2.labelMale>
-  <Boomrat.lifeStages.2.labelMalePlural>wybuchowego szczura</Boomrat.lifeStages.2.labelMalePlural>
-  <Boomrat.lifeStages.2.labelPlural>wybuchowe szczury</Boomrat.lifeStages.2.labelPlural>
+  <Boomrat.label>TODO</Boomrat.label>
+  <Boomrat.labelPlural>TODO</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>TODO</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>TODO</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.2.label>TODO</Boomrat.lifeStages.2.label>
   
   <!-- EN: capybara -->
-  <Capybara.label>kapibara</Capybara.label>
-  <Capybara.labelFemale>kapibara</Capybara.labelFemale>
-  <Capybara.labelFemalePlural>kapibary</Capybara.labelFemalePlural>
-  <Capybara.labelMale>kapibara</Capybara.labelMale>
-  <Capybara.labelMalePlural>kapibary</Capybara.labelMalePlural>
-  <Capybara.labelPlural>kapibary</Capybara.labelPlural>
-  <Capybara.lifeStages.0.label>młody kapibara</Capybara.lifeStages.0.label>
-  <Capybara.lifeStages.0.labelFemale>młoda kapibary</Capybara.lifeStages.0.labelFemale>
-  <Capybara.lifeStages.0.labelFemalePlural>młoda kapibary</Capybara.lifeStages.0.labelFemalePlural>
-  <Capybara.lifeStages.0.labelMale>młody kapibary</Capybara.lifeStages.0.labelMale>
-  <Capybara.lifeStages.0.labelMalePlural>młode kapibary</Capybara.lifeStages.0.labelMalePlural>
-  <Capybara.lifeStages.0.labelPlural>młoda kapibary</Capybara.lifeStages.0.labelPlural>
-  <Capybara.lifeStages.1.label>młoda kapibara</Capybara.lifeStages.1.label>
-  <Capybara.lifeStages.1.labelFemale>młoda kapibary</Capybara.lifeStages.1.labelFemale>
-  <Capybara.lifeStages.1.labelFemalePlural>młode kapibary</Capybara.lifeStages.1.labelFemalePlural>
-  <Capybara.lifeStages.1.labelMale>młody kapibary</Capybara.lifeStages.1.labelMale>
-  <Capybara.lifeStages.1.labelMalePlural>młode kapibary</Capybara.lifeStages.1.labelMalePlural>
-  <Capybara.lifeStages.1.labelPlural>młode kapibary</Capybara.lifeStages.1.labelPlural>
-  <Capybara.lifeStages.2.label>kapibara</Capybara.lifeStages.2.label>
-  <Capybara.lifeStages.2.labelFemale>kapibara</Capybara.lifeStages.2.labelFemale>
-  <Capybara.lifeStages.2.labelFemalePlural>kapibary</Capybara.lifeStages.2.labelFemalePlural>
-  <Capybara.lifeStages.2.labelMale>kapibara</Capybara.lifeStages.2.labelMale>
-  <Capybara.lifeStages.2.labelMalePlural>kapibary</Capybara.lifeStages.2.labelMalePlural>
-  <Capybara.lifeStages.2.labelPlural>kapibary</Capybara.lifeStages.2.labelPlural>
+  <Capybara.label>TODO</Capybara.label>
+  <Capybara.labelPlural>TODO</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>TODO</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>TODO</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.2.label>TODO</Capybara.lifeStages.2.label>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>szynszyla</Chinchilla.label>
-  <Chinchilla.labelFemale>szynszyl</Chinchilla.labelFemale>
-  <Chinchilla.labelFemalePlural>szynszyle</Chinchilla.labelFemalePlural>
-  <Chinchilla.labelMale>szynszyl</Chinchilla.labelMale>
-  <Chinchilla.labelMalePlural>szynszyle</Chinchilla.labelMalePlural>
-  <Chinchilla.labelPlural>szynszyle</Chinchilla.labelPlural>
-  <Chinchilla.lifeStages.0.label>szynszyla</Chinchilla.lifeStages.0.label>
-  <Chinchilla.lifeStages.0.labelFemale>szynszyl</Chinchilla.lifeStages.0.labelFemale>
-  <Chinchilla.lifeStages.0.labelFemalePlural>szynszyle</Chinchilla.lifeStages.0.labelFemalePlural>
-  <Chinchilla.lifeStages.0.labelMale>szynszyl</Chinchilla.lifeStages.0.labelMale>
-  <Chinchilla.lifeStages.0.labelMalePlural>szynszyle</Chinchilla.lifeStages.0.labelMalePlural>
-  <Chinchilla.lifeStages.0.labelPlural>szynszyle</Chinchilla.lifeStages.0.labelPlural>
-  <Chinchilla.lifeStages.1.label>szynszyla</Chinchilla.lifeStages.1.label>
-  <Chinchilla.lifeStages.1.labelFemale>szynszyl</Chinchilla.lifeStages.1.labelFemale>
-  <Chinchilla.lifeStages.1.labelFemalePlural>szynszyle</Chinchilla.lifeStages.1.labelFemalePlural>
-  <Chinchilla.lifeStages.1.labelMale>sszynszyl</Chinchilla.lifeStages.1.labelMale>
-  <Chinchilla.lifeStages.1.labelMalePlural>szynszyle</Chinchilla.lifeStages.1.labelMalePlural>
-  <Chinchilla.lifeStages.1.labelPlural>szynszyle</Chinchilla.lifeStages.1.labelPlural>
-  <Chinchilla.lifeStages.2.label>szynszyl</Chinchilla.lifeStages.2.label>
-  <Chinchilla.lifeStages.2.labelFemale>szynszyl</Chinchilla.lifeStages.2.labelFemale>
-  <Chinchilla.lifeStages.2.labelFemalePlural>szynszyle</Chinchilla.lifeStages.2.labelFemalePlural>
-  <Chinchilla.lifeStages.2.labelMale>szynszyl</Chinchilla.lifeStages.2.labelMale>
-  <Chinchilla.lifeStages.2.labelMalePlural>szynszyle</Chinchilla.lifeStages.2.labelMalePlural>
-  <Chinchilla.lifeStages.2.labelPlural>szynszyle</Chinchilla.lifeStages.2.labelPlural>
+  <Chinchilla.label>TODO</Chinchilla.label>
+  <Chinchilla.labelPlural>TODO</Chinchilla.labelPlural>
+  <Chinchilla.lifeStages.0.label>TODO</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>TODO</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.2.label>TODO</Chinchilla.lifeStages.2.label>
   
   <!-- EN: raccoon -->
-  <Raccoon.label>szop</Raccoon.label>
-  <Raccoon.labelFemale>szop</Raccoon.labelFemale>
-  <Raccoon.labelFemalePlural>szopy</Raccoon.labelFemalePlural>
-  <Raccoon.labelMale>szop</Raccoon.labelMale>
-  <Raccoon.labelMalePlural>szopy</Raccoon.labelMalePlural>
-  <Raccoon.labelPlural>szopy</Raccoon.labelPlural>
-  <Raccoon.lifeStages.0.label>szop</Raccoon.lifeStages.0.label>
-  <Raccoon.lifeStages.0.labelFemale>szop</Raccoon.lifeStages.0.labelFemale>
-  <Raccoon.lifeStages.0.labelFemalePlural>szopy</Raccoon.lifeStages.0.labelFemalePlural>
-  <Raccoon.lifeStages.0.labelMale>szop</Raccoon.lifeStages.0.labelMale>
-  <Raccoon.lifeStages.0.labelMalePlural>szopy</Raccoon.lifeStages.0.labelMalePlural>
-  <Raccoon.lifeStages.0.labelPlural>szopy</Raccoon.lifeStages.0.labelPlural>
-  <Raccoon.lifeStages.1.label>szop</Raccoon.lifeStages.1.label>
-  <Raccoon.lifeStages.1.labelFemale>szop</Raccoon.lifeStages.1.labelFemale>
-  <Raccoon.lifeStages.1.labelFemalePlural>szopy</Raccoon.lifeStages.1.labelFemalePlural>
-  <Raccoon.lifeStages.1.labelMale>szop</Raccoon.lifeStages.1.labelMale>
-  <Raccoon.lifeStages.1.labelMalePlural>szopy</Raccoon.lifeStages.1.labelMalePlural>
-  <Raccoon.lifeStages.1.labelPlural>szopy</Raccoon.lifeStages.1.labelPlural>
-  <Raccoon.lifeStages.2.label>szop</Raccoon.lifeStages.2.label>
-  <Raccoon.lifeStages.2.labelFemale>szop</Raccoon.lifeStages.2.labelFemale>
-  <Raccoon.lifeStages.2.labelFemalePlural>szopy</Raccoon.lifeStages.2.labelFemalePlural>
-  <Raccoon.lifeStages.2.labelMale>szop</Raccoon.lifeStages.2.labelMale>
-  <Raccoon.lifeStages.2.labelMalePlural>szopy</Raccoon.lifeStages.2.labelMalePlural>
-  <Raccoon.lifeStages.2.labelPlural>szopy</Raccoon.lifeStages.2.labelPlural>
+  <Raccoon.label>TODO</Raccoon.label>
+  <Raccoon.labelPlural>TODO</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>TODO</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.1.label>TODO</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.2.label>TODO</Raccoon.lifeStages.2.label>
   
   <!-- EN: rat -->
-  <Rat.label>szczur label</Rat.label>
-  <Rat.labelFemale>szczur female</Rat.labelFemale>
-  <Rat.labelFemalePlural>szczury Fplural</Rat.labelFemalePlural>
-  <Rat.labelMale>szczur male</Rat.labelMale>
-  <Rat.labelMalePlural>szczur Mplurar</Rat.labelMalePlural>
-  <Rat.labelPlural>szczury plurar</Rat.labelPlural>
-  <Rat.lifeStages.0.label>szczur 0label</Rat.lifeStages.0.label>
-  <Rat.lifeStages.0.labelFemale>szczur 0labelF</Rat.lifeStages.0.labelFemale>
-  <Rat.lifeStages.0.labelFemalePlural>szczury 0labelFplurar</Rat.lifeStages.0.labelFemalePlural>
-  <Rat.lifeStages.0.labelMale>szczur1</Rat.lifeStages.0.labelMale>
-  <Rat.lifeStages.0.labelMalePlural>szczury2</Rat.lifeStages.0.labelMalePlural>
-  <Rat.lifeStages.0.labelPlural>szczury3</Rat.lifeStages.0.labelPlural>
-  <Rat.lifeStages.1.label>szczur4</Rat.lifeStages.1.label>
-  <Rat.lifeStages.1.labelFemale>szczur5</Rat.lifeStages.1.labelFemale>
-  <Rat.lifeStages.1.labelFemalePlural>szczury6</Rat.lifeStages.1.labelFemalePlural>
-  <Rat.lifeStages.1.labelMale>szczur7</Rat.lifeStages.1.labelMale>
-  <Rat.lifeStages.1.labelMalePlural>szczury8</Rat.lifeStages.1.labelMalePlural>
-  <Rat.lifeStages.1.labelPlural>szczury9</Rat.lifeStages.1.labelPlural>
-  <Rat.lifeStages.2.label>szczur10</Rat.lifeStages.2.label>
-  <Rat.lifeStages.2.labelFemale>szczur11</Rat.lifeStages.2.labelFemale>
-  <Rat.lifeStages.2.labelFemalePlural>szczury12</Rat.lifeStages.2.labelFemalePlural>
-  <Rat.lifeStages.2.labelMale>szczur13</Rat.lifeStages.2.labelMale>
-  <Rat.lifeStages.2.labelMalePlural>szczury14</Rat.lifeStages.2.labelMalePlural>
-  <Rat.lifeStages.2.labelPlural>szczury15</Rat.lifeStages.2.labelPlural>
+  <Rat.label>szczur</Rat.label>
+  <Rat.labelPlural>szczury</Rat.labelPlural>
+  <Rat.lifeStages.0.label>młody szczur</Rat.lifeStages.0.label>
+  <Rat.lifeStages.1.label>szczur</Rat.lifeStages.1.label>
+  <Rat.lifeStages.2.label>szczur</Rat.lifeStages.2.label>
   
   <!-- EN: squirrel -->
-  <Squirrel.label>wiewiórka</Squirrel.label>
-  <Squirrel.labelFemale>wiewiórka</Squirrel.labelFemale>
-  <Squirrel.labelFemalePlural>wiewiórki</Squirrel.labelFemalePlural>
-  <Squirrel.labelMale>wiewiórka</Squirrel.labelMale>
-  <Squirrel.labelMalePlural>wiewiórki</Squirrel.labelMalePlural>
-  <Squirrel.labelPlural>wiewiórki</Squirrel.labelPlural>
-  <Squirrel.lifeStages.0.label>wiewiórka</Squirrel.lifeStages.0.label>
-  <Squirrel.lifeStages.0.labelFemale>wiewiórka</Squirrel.lifeStages.0.labelFemale>
-  <Squirrel.lifeStages.0.labelFemalePlural>wiewiórki</Squirrel.lifeStages.0.labelFemalePlural>
-  <Squirrel.lifeStages.0.labelMale>wiewiórka</Squirrel.lifeStages.0.labelMale>
-  <Squirrel.lifeStages.0.labelMalePlural>wiewiórki</Squirrel.lifeStages.0.labelMalePlural>
-  <Squirrel.lifeStages.0.labelPlural>wiewiórki</Squirrel.lifeStages.0.labelPlural>
-  <Squirrel.lifeStages.1.label>wiewiórka</Squirrel.lifeStages.1.label>
-  <Squirrel.lifeStages.1.labelFemale>wiewiórka</Squirrel.lifeStages.1.labelFemale>
-  <Squirrel.lifeStages.1.labelFemalePlural>wiewiórki</Squirrel.lifeStages.1.labelFemalePlural>
-  <Squirrel.lifeStages.1.labelMale>wiewiórka</Squirrel.lifeStages.1.labelMale>
-  <Squirrel.lifeStages.1.labelMalePlural>wiewiórki</Squirrel.lifeStages.1.labelMalePlural>
-  <Squirrel.lifeStages.1.labelPlural>wiewiórki</Squirrel.lifeStages.1.labelPlural>
-  <Squirrel.lifeStages.2.label>wiewiórka</Squirrel.lifeStages.2.label>
-  <Squirrel.lifeStages.2.labelFemale>wiewiórka</Squirrel.lifeStages.2.labelFemale>
-  <Squirrel.lifeStages.2.labelFemalePlural>wiewiórki</Squirrel.lifeStages.2.labelFemalePlural>
-  <Squirrel.lifeStages.2.labelMale>wiewiórka</Squirrel.lifeStages.2.labelMale>
-  <Squirrel.lifeStages.2.labelMalePlural>wiewiórki</Squirrel.lifeStages.2.labelMalePlural>
-  <Squirrel.lifeStages.2.labelPlural>wiewiórki</Squirrel.lifeStages.2.labelPlural>
+  <Squirrel.label>TODO</Squirrel.label>
+  <Squirrel.labelPlural>TODO</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>TODO</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>TODO</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.2.label>TODO</Squirrel.lifeStages.2.label>
   
 </LanguageData>
