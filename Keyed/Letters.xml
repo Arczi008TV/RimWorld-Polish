@@ -310,7 +310,7 @@
   <!-- EN: Peace talks triumph -->
   <LetterLabelPeaceTalks_Triumph>Triumf rozmów pokojowych</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>Ta rozmowa była najlepsza! Delegaci szybko połączyli i doszli do tego, aby naprawdę pomóc sobie nawzajem w najtrudniejszych problemach.\n\nRelacje z {0} uległy polepszeniu o {1}.\n\nGdy twoja karawana szykowała się do powrotu, {0} zaoferował tobie prezent: {2}.</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Ta rozmowa była najlepsza! Delegaci szybko połączyli i doszli do tego, aby naprawdę pomóc sobie nawzajem w najtrudniejszych problemach.\n\nRelacje z {0} uległy polepszeniu o {1}.\n\nGdy twoja karawana szykowała się do powrotu, {0} zaoferował tobie podarunek::\n\n{2}.</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
   <PeaceTalksSocialXPGain>{0}, twój negocjator, zyskał {1} doświadczenia.</PeaceTalksSocialXPGain>
 

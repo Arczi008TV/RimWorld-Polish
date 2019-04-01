@@ -250,27 +250,27 @@
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>Zbieranie zwierząt</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Zbieranie zwierząt (oczekuje)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Zbieranie przedmiotów</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Zbieranie przedmiotów (oczekuje)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering slaves -->
-  <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves>Zbieranie niewolników</FormingCaravanStatus_GatheringSlaves>
   <!-- EN: Gathering slaves (waiting) -->
-  <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Zbieranie niewolników (oczekuje)</FormingCaravanStatus_GatheringSlaves_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Zbieranie poległych</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Zbieranie poległych (oczekuje)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>Opuszczanie</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Opuszczanie (oczekuje)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
-  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <FormingCaravanStatus_Waiting>Oczekuje</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
   <CaravanMembers>Członkowie</CaravanMembers>
   <!-- EN: Animals -->
@@ -286,8 +286,8 @@
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>TODO</RemoveSliderText>
+  <RemoveSliderText>Usuń {{0}}x {0}</RemoveSliderText>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>Czy na pewno chcesz usunąć {0}?</ConfirmRemoveItemDialog>
 
 </LanguageData>

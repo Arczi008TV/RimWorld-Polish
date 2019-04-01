@@ -4,7 +4,7 @@
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>siła dyplomacji</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>Jak efektywna jest ta osoba jako negocjator. Wpływa na relacje z frakcją przy podarowaniu prezentu oraz na rozmowy pokojowe.</NegotiationAbility.description>
+  <NegotiationAbility.description>Jak efektywna jest ta osoba jako negocjator. Wpływa na relacje z frakcją przy obdarzeniu podarunkiem oraz na rozmowy pokojowe.</NegotiationAbility.description>
   
   <!-- UNUSED -->
   <RecruitPrisonerChance.label>szansa na rekrutację więźnia</RecruitPrisonerChance.label>

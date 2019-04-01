@@ -69,17 +69,17 @@
   <!-- EN: Enemy of {0} -->
   <HostileTo>Wróg {0}</HostileTo>
   <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <CurrentGoodwillTip>Obecna reputacja i status relacji z tą frakcją.</CurrentGoodwillTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>Ta frakcja jest stale wroga. Będzie najeżdżać twoją osadę i karawany. Relacja z nimi nigdy się nie poprawi z jakiegokolwiek powodu.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Ally>Ta frakcja jest sojusznicza. Będzie wysyłać wojowników żeby ci pomóc, kiedy tylko będzie mogła. Jeśli relacja spadnie poniżej {0}, frakcja stanie się neutralna.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Ta frakcja jest neutralna. Będzie z tobą dobrowolnie handlować i rozmawiać. Jeśli relacja spadnie poniżej {0}, frakcja stanie się wroga. Jeśli wzrośnie ponad {1}, stanie się sojusznicza i zacznie aktywnie pracować, aby ci pomóc.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Ta frakcja jest wroga. Będzie najeżdżać twoją osadę i karawany. Jeśli relacja wzrośnie powyżej {0}, stanie się neutralna.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
-  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwill>Ta frakcja ma naturalny zakres reputacji od {0} do {1}. Jeśli wartość reputacji przekroczy {1}, zacznie spadać o {3} dziennie. Jeśli wartość reputacji spadnie poniżej {0}, zacznie wzrastać o {2} dziennie.</CurrentGoodwillTip_NaturalGoodwill>
   
   <!-- Social tab -->
   <!-- EN: Friend -->
@@ -119,9 +119,9 @@
   <!-- EN: Show messages -->
   <ShowMessages>Pokaż wiadomości</ShowMessages>
   <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
-  <PinArchivableTip>TODO</PinArchivableTip>
+  <PinArchivableTip>Przypnij lub odepnij tę wiadomość.\n\nNajstarsze odpięte wiadomości zostaną automatycznie usunięte z listy po osiągnięciu limitu {0} wiadomości.</PinArchivableTip>
   <!-- EN: no messages -->
-  <NoMessages>TODO</NoMessages>
+  <NoMessages>nie masz wiadomości</NoMessages>
 
   <!-- History tab - Statistics -->
   <!-- EN: Play time -->
@@ -135,7 +135,7 @@
   <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>Majątek kolonii (budynki) (ta mapa)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Majątek kolonii (ludzie i zwierzęta) (ta mapa)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>Poważne zagrożenia</NumThreatBigs>
   <!-- EN: Enemy raids -->

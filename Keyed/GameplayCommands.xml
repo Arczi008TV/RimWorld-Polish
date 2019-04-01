@@ -71,11 +71,11 @@
   <!-- EN: Assign colonist -->
   <CommandGraveAssignColonistLabel>Przydziel kolonistę</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>Pzydziel ten grób dla konkretnego kolonisty.</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Przydziel ten grób dla konkretnego kolonisty.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
   <BuildingAssign>Przydziel</BuildingAssign>
   <!-- EN: Reassign -->
-  <BuildingReassign>TODO</BuildingReassign>
+  <BuildingReassign>Zmień przydział</BuildingReassign>
   <!-- EN: Unassign -->
   <BuildingUnassign>Anuluj przydział</BuildingUnassign>
   <!-- EN: For prisoners -->
@@ -230,7 +230,7 @@
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>Kiedy włączone - zwierzęta zostaną wysłane do ataku na odległe cele. Kiedy wyłączone - pozostaną i będą bronić swojego pana.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>TODO</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>Brak dostępnych zwierząt.</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
@@ -260,7 +260,7 @@
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>TODO</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Dostosowany do</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
@@ -326,15 +326,15 @@
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>TODO</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>Usuń z karawany</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>TODO</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>Usuń tę osobę lub zwierzę z karawany.</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>TODO</CommandAddToCaravan>
+  <CommandAddToCaravan>Dodaj do karawany</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>TODO</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>Dodaj tę osobę lub zwierzę do karawany.</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
@@ -352,9 +352,9 @@
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>TODO</CommandOfferGifts>
+  <CommandOfferGifts>zaoferuj podarunki</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>TODO</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>Zaoferuj podarunki dla tej frakcji.</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
@@ -440,21 +440,21 @@
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
-  <CommandPauseCaravan>TODO</CommandPauseCaravan>
+  <CommandPauseCaravan>Odpocznij</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>TODO</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>Zacznij odpoczynek. Ma to następujące korzyści:\n\n - Ludzie mogą wchodzić w interakcje społeczne\n - Pasze dla żywności {0} razy szybciej\n - Widoczność pomnożona przez {1}</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>TODO</CommandShowSellableItems>
+  <CommandShowSellableItems>Pokaż co kupi</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>TODO</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>Pokazuje wszystko co chciałby kupić ten handlowiec.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
-  <CommandAttackSettlement>TODO</CommandAttackSettlement>
+  <CommandAttackSettlement>Zaatakuj</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>TODO</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>Zaatakuj tę kolonię</CommandAttackSettlementDesc>
 
   <!-- UNUSED -->
   <CommandExtractShellFailNoShell>Brak załadowanego naboju.</CommandExtractShellFailNoShell>

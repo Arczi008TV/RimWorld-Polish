@@ -13,7 +13,7 @@
   <!-- EN: Blight -->
   <LetterLabelCropBlight>Zaraza</LetterLabelCropBlight>
   <!-- EN: A colonist has noticed blight on your crops! You should cut or burn the blighted plants before the blight spreads. -->
-  <LetterCropBlight>TODO</LetterCropBlight>
+  <LetterCropBlight>Kolonista zauważył zarazę na twoich uprawach! Powinieneś wyciąć lub spalić zepsute rośliny, zanim się rozprzestrzeni.</LetterCropBlight>
 
   <!-- EN: Miracle -->
   <LetterLabelMiracleHeal>Cud</LetterLabelMiracleHeal>
@@ -22,22 +22,22 @@
 
   <!-- Enemy raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>Jeden z {0} - {1}, jest liderem frakcji.</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>Jeden z {LEADER_factionPawnsPlural} - {LEADER_labelShort}, jest liderem frakcji.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>Jeden z {0} - {1}, jest liderem frakcji.</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>Jeden z {LEADER_factionPawnsPlural} - {LEADER_labelShort}, jest liderem frakcji.</FriendlyRaidLeaderPresent>
 
   <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>Kapsuła ratunkowa</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>Odkryto kapsułę ratunkową, która rozbiła się niedaleko.\n\nJeśli ktokolwiek przeżył wypadek, będzie potrzebował pomocy.\n\nMożesz ich uratować i wypuścić ich, lub możesz ich uwięzić aby zrekrutować ich.</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} o nazwie {PAWN_nameDef} ulega awarii w pobliskim transporcie. Jeśli {PAWN_pronoun} przetrwa uderzenie, {PAWN_pronoun} zostanie ciężko ranny.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>TODO</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} nie jest powiązany z żadną frakcją. Możesz uratować {PAWN_objective} i mieć nadzieję, że {PAWN_pronoun} dobrowolnie dołączy, lub przechwyć {PAWN_objective} do celów rekrutacyjnych lub niewolniczych.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Hostile>TODO</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} pochodzi od twojego wroga {PAWN_factionName}. Możesz przechwycić {PAWN_objective} do celów rekrutacyjnych lub niewolniczych.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>TODO</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} pochodzi z {PAWN_factionName}. Jeśli uratujesz {PAWN_objective}, {PAWN_pronoun} może dobrowolnie dołączyć. W przeciwnym razie {PAWN_pronoun} powróci do domu i wzrośnie reputacja między waszymi frakcjami.\n\nMożesz także przechwycić {PAWN_objective} do celów rekrutacyjnych lub niewolniczych, ale to rozzłości frakcję {PAWN_possessive}.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Kapsuły transportowe</LetterLabelCargoPodCrash>
@@ -210,9 +210,9 @@
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
   <CaravanRequestInfo>Prośba: {0}, Nagroda: {1} (pozostało: {2})</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>TODO</NormalQualityOrBetter>
+  <NormalQualityOrBetter>normalna lub lepsza jakość</NormalQualityOrBetter>
   <!-- EN: not tainted -->
-  <NotTainted>TODO</NotTainted>
+  <NotTainted>nie skażone</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
@@ -226,13 +226,13 @@
 
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>TODO</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostile>Misja nie jest już dostępna</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>TODO</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Misje nie są już dostępne</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>TODO</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostile>Ponieważ nie jesteś już wrogiem z {0}, to {1} teren nie jest już dostępny.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostileMulti>Ponieważ nie jesteś już wrogiem z {0}, obecne tereny nie są już dostępne.</LetterSiteNoLongerHostileMulti>
 
   <!-- UNUSED -->
   <CropBlight>Koloniści zobaczyli zarazę na twoich plonach. Powinieneś wyciąć lub spalić zarażone rośliny zanim zaraza się rozprzestrzeni</CropBlight>

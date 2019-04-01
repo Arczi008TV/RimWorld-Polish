@@ -108,18 +108,18 @@
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>Twoi koloniści potrzebują nieco zabawy, żeby móc normalnie pracować.\n\nPomóż im, umieszczając kołek do rzutu podkową, stół do szachów lub inny obiekt do zabaw.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <AvailableRecreationTypes>Dostępne typy rekreacji</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <MissingRecreationTypes>Brakujące typy rekreacji</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>Przy obecnych oczekiwaniach ({0}) każda tolerancja spada o {1} na dzień w stanie czuwania. Zalecane jest posiadanie {2} rodzajów rekreacji.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
   <bored>znudzony</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>TODO</Boredom>
+  <Boredom>Znudzeni</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>TODO</BoredomDesc>
+  <BoredomDesc>Ludzie ci albo potrzebują rekreacji, albo są przeznaczeni do rekreacji, ale znudzeni są wszystkimi dostępnymi źródłami rekreacji:\n\n{0}\n\nDaj im bardziej rekreacyjną różnorodność.\n\n Aktualnie dostępne typy rekreacji dla { PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>Potrzeba baterii</NeedBatteries>
