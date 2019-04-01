@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: assault rifle bullet -->
-  <Bullet_AssaultRifle.label>TODO</Bullet_AssaultRifle.label>
+  <Bullet_AssaultRifle.label>pocisk karabinu szturmowego</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>TODO</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>pocisk autopistoletu</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
-  <Bullet_BoltActionRifle.label>TODO</Bullet_BoltActionRifle.label>
+  <Bullet_BoltActionRifle.label>pocisk karabinu jednostrzałowego</Bullet_BoltActionRifle.label>
   
   <!-- EN: heavy SMG bullet -->
-  <Bullet_HeavySMG.label>TODO</Bullet_HeavySMG.label>
+  <Bullet_HeavySMG.label>pocisk SMG</Bullet_HeavySMG.label>
   
   <!-- EN: incendiary bolt -->
   <Bullet_IncendiaryLauncher.label>TODO</Bullet_IncendiaryLauncher.label>
@@ -57,15 +57,15 @@
   <Gun_Autopistol.verbs.Verb_Shoot.label>TODO</Gun_Autopistol.verbs.Verb_Shoot.label>
   
   <!-- EN: bolt-action rifle -->
-  <Gun_BoltActionRifle.label>TODO</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.label>karabin jednostrzałowy</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
   <Gun_BoltActionRifle.description>TODO</Gun_BoltActionRifle.description>
   <!-- EN: stock -->
   <Gun_BoltActionRifle.tools.stock.label>TODO</Gun_BoltActionRifle.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_BoltActionRifle.tools.barrel.label>TODO</Gun_BoltActionRifle.tools.barrel.label>
+  <Gun_BoltActionRifle.tools.barrel.label>beczka</Gun_BoltActionRifle.tools.barrel.label>
   <!-- EN: bolt-action rifle -->
-  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>TODO</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>karabin jednostrzałowy</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
   
   <!-- EN: chain shotgun -->
   <Gun_ChainShotgun.label>TODO</Gun_ChainShotgun.label>

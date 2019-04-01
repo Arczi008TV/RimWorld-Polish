@@ -33,11 +33,11 @@
   <EnergyShieldRechargeRate.formatString>{0}/sek.</EnergyShieldRechargeRate.formatString>
   
   <!-- EN: equip delay -->
-  <EquipDelay.label>TODO</EquipDelay.label>
+  <EquipDelay.label>czas założenia</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
-  <EquipDelay.description>TODO</EquipDelay.description>
+  <EquipDelay.description>Czas który upłynie przy zakładaniu lub zdejmowaniu tego przedmiotu.</EquipDelay.description>
   <!-- EN: {0} s -->
-  <EquipDelay.formatString>TODO</EquipDelay.formatString>
+  <EquipDelay.formatString>{0} sek</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
   <Insulation_Cold.label>Izolacja - chłód</Insulation_Cold.label>

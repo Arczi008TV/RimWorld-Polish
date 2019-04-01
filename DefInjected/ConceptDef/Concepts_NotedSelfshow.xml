@@ -74,7 +74,7 @@
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Niebezpieczeństwo związane ze strzałami sojuszników</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>Jeśli strzelec znajdzie się blisko sojusznika, nie zrani go.\n\nPrzykładowo, możesz bezpiecznie umieścić kolonistę posługującego się bronią białą tuż przed tym z bronią palną. Strzelec będzie strzelał nad ramieniem przyjaciela.\n\nTo dobry sposób na zmieszanie wojowników zasięgowych i melee.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Jeśli strzelec znajdzie się blisko sojusznika, nie zrani go.\n\nPrzykładowo, możesz bezpiecznie umieścić kolonistę posługującego się bronią białą tuż przed tym z bronią palną. Strzelec będzie strzelał nad ramieniem przyjaciela.\n\nTo dobry sposób na zmieszanie wojowników zasięgowych i wręcz.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>Zdobywanie większej ilości handlarzy</GettingMoreTraders.label>

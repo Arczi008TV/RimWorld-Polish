@@ -8,6 +8,6 @@
   <DropOnFloor.label>wyrzuć na ziemię</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>TODO</SpecificStockpile.label>
+  <SpecificStockpile.label>zabierz do {0}</SpecificStockpile.label>
   
 </LanguageData>

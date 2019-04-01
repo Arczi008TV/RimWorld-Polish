@@ -16,32 +16,32 @@
   <!-- EN: front left claws -->
   <FrontLeftClaws.label>pazury przedniej lewej nogi</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>pazury</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
   <FrontLeftLeg.label>przednia lewa noga</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>noga</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
   <FrontLeftPaw.label>przednia lewa łapa</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>łapa</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
   <FrontRightClaws.label>pazury przedniej prawej nogi</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>pazury</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
   <FrontRightLeg.label>przednia prawa noga</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>noga</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
   <FrontRightPaw.label>przednia prawa łapa</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>łapa</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
   <FullHead.label>cała głowa</FullHead.label>
@@ -59,14 +59,14 @@
   <HornAttackTool.label>róg</HornAttackTool.label>
   
   <!-- EN: left blade -->
-  <LeftBlade.label>mechaniczny nóż (lewy)</LeftBlade.label>
+  <LeftBlade.label>lewe ostrze</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  <LeftBlade.labelShort>ostrze</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
   <LeftHand.label>lewa pięść</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  <LeftHand.labelShort>pięść</LeftHand.labelShort>
   
   <!-- EN: legs -->
   <Legs.label>nogi</Legs.label>
@@ -78,14 +78,14 @@
   <Neck.label>szyja</Neck.label>
   
   <!-- EN: right blade -->
-  <RightBlade.label>mechaniczny nóż (prawy)</RightBlade.label>
+  <RightBlade.label>prawe ostrze</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  <RightBlade.labelShort>ostrze</RightBlade.labelShort>
   
   <!-- EN: right fist -->
   <RightHand.label>prawa pięść</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>TODO</RightHand.labelShort>
+  <RightHand.labelShort>pięść</RightHand.labelShort>
   
   <!-- EN: shoulders -->
   <Shoulders.label>ramiona</Shoulders.label>
