@@ -147,7 +147,7 @@
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>Bez pomocy medycznej</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>Bez opieki medycznej</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
   <MedicalCareCategory_NoMeds>Opieka lekarska, ale bez leków</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->

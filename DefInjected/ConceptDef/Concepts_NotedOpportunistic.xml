@@ -59,7 +59,7 @@
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Zakładka więźnia</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Sprawdź zakładkę więźnia po kliknięciu na niego, aby ustawić, jak ma być traktowany.\n\nMożesz zdecydować, czy zostanie zrekrutowany, zignorowany lub poddany egzekucji, czy otrzyma jedzenie i jakiego rodzaju opieka medyczna mu się należy.\n\nKoloniści będacy strażnikami zajmą się więźniem.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>Sprawdź zakładkę więźnia po kliknięciu na niego, aby ustawić, jak ma być traktowany.\n\nMożesz zdecydować, czy zostanie zrekrutowany, zignorowany lub poddany egzekucji, czy otrzyma jedzenie i jakiego rodzaju opieka medyczna mu się należy.\n\nKoloniści będący strażnikami zajmą się więźniem.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>TODO</QueueOrders.label>

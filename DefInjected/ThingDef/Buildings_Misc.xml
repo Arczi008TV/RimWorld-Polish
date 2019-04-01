@@ -34,7 +34,7 @@
   <Grave.description>Godne miejsce spoczynku. Koloniści odwiedzą pełne groby, aby uzyskać radość medytacji.</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>geoskaner</GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
   <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
   
@@ -54,7 +54,7 @@
   <MoisturePump.description>TODO</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
+  <MultiAnalyzer.label>multianalizer</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
   <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
   

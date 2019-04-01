@@ -20,7 +20,7 @@
   <Master.label>właściciel</Master.label>
   
   <!-- EN: Medical care -->
-  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  <MedicalCare.headerTip>Opieka medyczna</MedicalCare.headerTip>
   
   <!-- EN: current outfit -->
   <Outfit.label>obecny strój</Outfit.label>

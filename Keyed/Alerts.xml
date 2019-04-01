@@ -34,7 +34,7 @@
   <!-- EN: Need doctor -->
   <NeedDoctor>Potrzeba lekarza</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Ci koloniści potrzebują opieki lekarskiej, ale nie masz obecnie żadnych zdrowych ludzi zdolnych im pomóc:\n\n{0}\nPrzypisz jakiegoś zdrowego kolonistę do pracy w zawodzie lekarza. Jeśli nie zaopiekujesz się pacjentami, mogą oni nie wyzdrowieć, a nawet zostać okaleczonymi na całe życie.</NeedDoctorDesc>
+  <NeedDoctorDesc>Ci koloniści potrzebują opieki medycznej, ale nie masz obecnie żadnych zdrowych ludzi zdolnych im pomóc:\n\n{0}\nPrzypisz jakiegoś zdrowego kolonistę do pracy w zawodzie lekarza. Jeśli nie zaopiekujesz się pacjentami, mogą oni nie wyzdrowieć, a nawet zostać okaleczonymi na całe życie.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Potrzeba górnika</NeedMiner>
