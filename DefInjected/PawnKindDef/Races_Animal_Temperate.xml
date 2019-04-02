@@ -24,7 +24,8 @@
   <Deer.labelMale>jeleń</Deer.labelMale>
   <!-- EN: deer -->
   <Deer.labelPlural>jelenie</Deer.labelPlural>
-  <Deer.lifeStages.0.label>jeleń</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.label>cielę jelenia</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelPlural>cielęta jelenia</Deer.lifeStages.0.labelPlural>
   <Deer.lifeStages.1.labelFemale>młoda łania</Deer.lifeStages.1.labelFemale>
   <Deer.lifeStages.1.labelMale>młody jeleń</Deer.lifeStages.1.labelMale>
   <Deer.lifeStages.2.labelFemale>łania</Deer.lifeStages.2.labelFemale>
@@ -59,7 +60,9 @@
   <Ibex.lifeStages.1.labelMale>TODO</Ibex.lifeStages.1.labelMale>
   <Ibex.lifeStages.2.label>TODO</Ibex.lifeStages.2.label>
   <Ibex.lifeStages.2.labelFemale>kozica</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>kozice</Ibex.lifeStages.2.labelFemalePlural>
   <Ibex.lifeStages.2.labelMale>koziorożec</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>koziorożce</Ibex.lifeStages.2.labelMalePlural>
   
   <!-- EN: tortoise -->
   <Tortoise.label>TODO</Tortoise.label>
@@ -73,7 +76,9 @@
   <WildBoar.labelPlural>dziki</WildBoar.labelPlural>
   <WildBoar.lifeStages.0.label>warchlak</WildBoar.lifeStages.0.label>
   <WildBoar.lifeStages.0.labelPlural>warchlaki</WildBoar.lifeStages.0.labelPlural>
-  <WildBoar.lifeStages.1.label>młode dziki</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.label>młody dzik</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelPlural>młode dziki</WildBoar.lifeStages.1.labelPlural>
   <WildBoar.lifeStages.2.label>dzik</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelPlural>dziki</WildBoar.lifeStages.2.labelPlural>
   
 </LanguageData>

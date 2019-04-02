@@ -64,11 +64,11 @@
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Nowy rekrut</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{0} zrekrutował {1} ({2} szans).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} zrekrutował {RECRUITEE_nameFull} ({2} szans).</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{0} oswoił {1} ({2} szans).</MessageTameSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} oswoił {1} ({2} szans).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{0} oswoił {1} ({2} szans) i nadał [PAWN_objective] imię: {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} oswoił {1} ({2} szans) i nadał {RECRUITEE_objective} imię: {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>Kolonii nie stać na tę transakcję.</MessageColonyCannotAfford>
@@ -97,7 +97,7 @@
   <!-- EN: Must designate rough stone surfaces. -->
   <MessageMustDesignateSmoothableSurface>TODO</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>Nic nie może usunąc tak grubego dachu.</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>Nic nie może usunąć tak grubego dachu.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
   <MessageAlreadyInStorage>To już znajduje się w składzie i w razie potrzeby zostanie przeniesione do składu o wyższym priorytecie.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
@@ -119,27 +119,27 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Nie ma dostępnych legowisk dla zwierząt.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>Operacja wymaga poziomu {0} lub wyższego. Poziom opieki medycznej {1} wynosi "{2}".</MessageTooLowMedCare>
+  <MessageTooLowMedCare>Operacja wymaga poziomu {0} lub wyższego. Poziom opieki medycznej {PAWN_labelShort} wynosi "{2}".</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{0} nie żyje z powodu {1}.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} nie żyje. Przyczyna: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>TODO</PawnDied>
+  <PawnDied>{1_labelShort} właśnie umarł(a).</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{0} może już chodzić.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} może już chodzić.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{0} updał z powodu silnego wyczerpania.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} upadł z powodu silnego wyczerpania.</MessageInvoluntarySleep>
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureMinor>{0} popełnił błąd, operując {1}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} popełnił błąd, operując {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{0} popełnił straszny błąd, operując {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} popełnił straszny błąd, operując {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureRidiculous>{0} popełnił absurdalny błąd, operując {1}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} popełnił absurdalny błąd, operując {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{0} popełnił fatalny błąd, operując {1} z powodu specjalnych wyzwań: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} popełnił fatalny błąd, operując {PATIENT_labelShort} z powodu specjalnych wyzwań: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>Operacja rozgniewa {0}.</MessageMedicalOperationWillAngerFaction>
@@ -152,29 +152,29 @@
   <MessageGaveBirth>{0} urodziła.</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{0} nadał {1} imię: {2}.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} nadał {1} imię: {NAMEE_nameFull} po tym, jak został zszokowany.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>Żaden trener nie może oswoić {ANIMAL_kindBase} (Wymaga poziomu {1} w kategorii {2}, najlepszy trener {3} ma {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Żaden trener nie może oswoić {ANIMAL_kindBase} (Wymaga poziomu {1} w kategorii: {2}, najlepszy trener {HANDLER_labelShort} ma {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{0} został zjedzony przez {1}.</MessageEatenByPredator>
+  <MessageEatenByPredator>{EATEN_labelShort} został zjedzony przez {PREDATOR}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{0} jest atakowany przez {1}!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} jest atakowany przez {PREDATOR}!</MessageAttackedByPredator>
   
   <!-- EN: A bug hive has reproduced itself. -->
-  <MessageHiveReproduced>Robale stworzyły kolejne gniazdo.</MessageHiveReproduced>
+  <MessageHiveReproduced>Insekty stworzyły kolejne gniazdo.</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>Karawana z {0} odchodzi.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{0} nie żyje.</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} nie żyje.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{0} jest poza mapą.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} jest poza mapą.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{0} rozpoczął kłótnię z {1}. Powód: {2}.</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} rozpoczął kłótnię z {PAWN2_labelShort}.</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
   <MessageNewMarriageCeremony>Koloniści zbierają się, aby świętować małżeństwo {0} i {1}.</MessageNewMarriageCeremony>
@@ -250,17 +250,17 @@
   <MessageMaxPlanetCoveragePerformanceWarning>Uwaga: wygenerowanie całej planety może zająć bardzo dużo czasu.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>Roślina uschnła z powodu zimna: {0}.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>Roślina uschła z powodu zimna: {0}.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
   <MessagePlantDiedOfRot_LeftUnharvested>Roślina zgniła, ponieważ nie została zebrana: {0}.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>Roślina uschnła z powodu światła: {0}.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>Roślina uschła z powodu światła: {0}.</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>Roślina uschła z powodu zgnicia: {0}.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>Roślina usła z powodu trucizny: {0}.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>Roślina uschła z powodu trucizny: {0}.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>Roślina usła z powodu zarazy: {0}.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>Roślina uschła z powodu zarazy: {0}.</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{0} pali się z powodu zbyt gorącego powietrza!</MessagePawnBeingBurned>

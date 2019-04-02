@@ -303,7 +303,7 @@
   <!-- EN: carried -->
   <Carried>noszony</Carried>
   <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>śred. prędkość ruchu osoby</AverageCaravanMemberMoveSpeed>
+  <AverageCaravanMemberMoveSpeed>Śred. prędkość ruchu osoby</AverageCaravanMemberMoveSpeed>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Mnożnik masy przewożonej:</MultiplierForCarriedMass>
   <!-- EN: Caravan members speed -->
@@ -351,9 +351,9 @@
   <!-- EN: turrets -->
   <Turrets>wieżyczki</Turrets>
   <!-- EN: mortar -->
-  <Mortar>TODO</Mortar>
+  <Mortar>moździerz</Mortar>
   <!-- EN: mortars -->
-  <Mortars>TODO</Mortars>
+  <Mortars>moździerze</Mortars>
   <!-- EN: enemy -->
   <Enemy>przeciwnik</Enemy>
 
@@ -575,7 +575,7 @@
   <!-- EN: nothing -->
   <EquippedNothing>nic</EquippedNothing>
   <!-- EN: Dead -->
-  <Dead>Martwy</Dead>
+  <Dead>Nie żyje</Dead>
   <!-- EN: Unconscious -->
   <Unconscious>Nieprzytomny</Unconscious>
   <!-- EN: In shock due to pain -->
@@ -611,7 +611,7 @@
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>z</OfLower>
+  <OfLower>od</OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
@@ -1001,7 +1001,7 @@
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Kliknij, aby wejść w tryb  planowania, gdzie możesz zaplanować podróż i wyliczyć odległość między poszczególnymi punktami orientacyjnymi.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Kliknij, aby wejść w tryb planowania, gdzie możesz zaplanować podróż i wyliczyć odległość między poszczególnymi punktami orientacyjnymi.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
   <RoutePlannerAddTwoOrMoreWaypoints>Dodaj dwa lub więcej punktów orientacyjnych.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->

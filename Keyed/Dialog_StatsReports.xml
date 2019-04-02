@@ -29,7 +29,7 @@
   <!-- EN: Health -->
   <StatsReport_Health>Zdrowie</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>{0} ważność</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>{0} znaczenie</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
   <HealthOffsetScale>{0} wpływ</HealthOffsetScale>
   <!-- EN: {0} max -->

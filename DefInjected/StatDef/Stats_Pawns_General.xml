@@ -7,12 +7,12 @@
   <CarryingCapacity.description>Ilość rzeczy, jaką ta istota może przenosić w rękach, pysku itp. Jest ona oddzielona od zdolności transportu ładunku na długich wyprawach po świecie.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
-  <ComfyTemperatureMax.label>Maksymalna komfortowa temp.</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>Maks. komfortowa temperatura</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
   <ComfyTemperatureMax.description>Koloniści będą niezadowoleni, gdy temperatura wzrośnie powyżej tej wartości. Jeżeli wzrost będzie zbyt duży, może się to skończyć udarem słonecznym i w ostateczności śmiercią.</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
-  <ComfyTemperatureMin.label>Minimalna komfortowa temp.</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.label>Min. komfortowa temperatura</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
   <ComfyTemperatureMin.description>Koloniści będą niezadowoleni, gdy temperatura spadnie poniżej tej wartości. Jeżeli spadek będzie zbyt duży, może się to skończyć wyziębieniem organizmu i odmrożeniami, a w ostateczności śmiercią.</ComfyTemperatureMin.description>
   
@@ -57,7 +57,7 @@
   <MentalBreakThreshold.description>Jeśli nastrój tej osoby pozostaje poniżej tej wartości, kolonista może się załamać. Dotkliwość przerwy psychicznej będzie zależeć od tego, jak nisko progu są.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
-  <MinimumHandlingSkill.label>minimalny poziom umiejętności tresera</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.label>min. poziom umiejętności tresera</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>Zwierzę nie może zostać oswojone, trenowane ani dowodzone przez osobę, której poziom umiejętności tresera jest niższy niż ten.</MinimumHandlingSkill.description>
   

@@ -3,99 +3,46 @@
   
   <!-- EN: dromedary -->
   <Dromedary.label>dromader</Dromedary.label>
-  <Dromedary.labelFemale>dromader</Dromedary.labelFemale>
-  <Dromedary.labelFemalePlural>dromadera</Dromedary.labelFemalePlural>
-  <Dromedary.labelMale>dromader</Dromedary.labelMale>
-  <Dromedary.labelMalePlural>dromadera</Dromedary.labelMalePlural>
-  <!-- EN: dromedaries -->
   <Dromedary.labelPlural>dromadery</Dromedary.labelPlural>
-  <!-- EN: dromedary calf -->
   <Dromedary.lifeStages.dromedary_calf.label>cielę dromadera</Dromedary.lifeStages.dromedary_calf.label>
-  <Dromedary.lifeStages.dromedary_calf.labelFemale>cielę dromadera - samica</Dromedary.lifeStages.dromedary_calf.labelFemale>
-  <Dromedary.lifeStages.dromedary_calf.labelFemalePlural>cielęta dromadera - samice</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
-  <Dromedary.lifeStages.dromedary_calf.labelMale>cielę dromadera - samiec</Dromedary.lifeStages.dromedary_calf.labelMale>
-  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>cielęta dromadera - samce</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
-  <!-- EN: dromedary calves -->
   <Dromedary.lifeStages.dromedary_calf.labelPlural>cielęta dromadera</Dromedary.lifeStages.dromedary_calf.labelPlural>
-  <Dromedary.lifeStages.1.label>dromader</Dromedary.lifeStages.1.label>
-  <Dromedary.lifeStages.1.labelFemale>samica dromadera</Dromedary.lifeStages.1.labelFemale>
-  <Dromedary.lifeStages.1.labelFemalePlural>samice dromadera</Dromedary.lifeStages.1.labelFemalePlural>
-  <Dromedary.lifeStages.1.labelMale>samiec dromadera</Dromedary.lifeStages.1.labelMale>
-  <Dromedary.lifeStages.1.labelMalePlural>samce dromadera</Dromedary.lifeStages.1.labelMalePlural>
-  <Dromedary.lifeStages.1.labelPlural>dromadery</Dromedary.lifeStages.1.labelPlural>
+  <Dromedary.lifeStages.1.label>młody dromader</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.1.labelPlural>młode dromadery</Dromedary.lifeStages.1.labelPlural>
   <Dromedary.lifeStages.2.label>dromader</Dromedary.lifeStages.2.label>
-  <Dromedary.lifeStages.2.labelFemale>samica dromadera</Dromedary.lifeStages.2.labelFemale>
-  <Dromedary.lifeStages.2.labelFemalePlural>samice dromadera</Dromedary.lifeStages.2.labelFemalePlural>
-  <Dromedary.lifeStages.2.labelMale>samiec dromadera</Dromedary.lifeStages.2.labelMale>
-  <Dromedary.lifeStages.2.labelMalePlural>samce dromadera</Dromedary.lifeStages.2.labelMalePlural>
   <Dromedary.lifeStages.2.labelPlural>dromadery</Dromedary.lifeStages.2.labelPlural>
   
   <!-- EN: gazelle -->
   <Gazelle.label>gazela</Gazelle.label>
-  <Gazelle.labelFemale>gazela</Gazelle.labelFemale>
-  <Gazelle.labelFemalePlural>gazeli</Gazelle.labelFemalePlural>
-  <Gazelle.labelMale>gazela</Gazelle.labelMale>
-  <Gazelle.labelMalePlural>gazeli</Gazelle.labelMalePlural>
   <Gazelle.labelPlural>gazele</Gazelle.labelPlural>
-  <Gazelle.lifeStages.0.label>gazela</Gazelle.lifeStages.0.label>
-  <Gazelle.lifeStages.0.labelFemale>gazela</Gazelle.lifeStages.0.labelFemale>
-  <Gazelle.lifeStages.0.labelFemalePlural>gazeli</Gazelle.lifeStages.0.labelFemalePlural>
-  <Gazelle.lifeStages.0.labelMale>gazela</Gazelle.lifeStages.0.labelMale>
-  <Gazelle.lifeStages.0.labelMalePlural>gazeli</Gazelle.lifeStages.0.labelMalePlural>
-  <Gazelle.lifeStages.0.labelPlural>gazele</Gazelle.lifeStages.0.labelPlural>
-  <Gazelle.lifeStages.1.label>gazela</Gazelle.lifeStages.1.label>
-  <Gazelle.lifeStages.1.labelFemale>gazela</Gazelle.lifeStages.1.labelFemale>
-  <Gazelle.lifeStages.1.labelFemalePlural>gazeli</Gazelle.lifeStages.1.labelFemalePlural>
-  <Gazelle.lifeStages.1.labelMale>gazela</Gazelle.lifeStages.1.labelMale>
-  <Gazelle.lifeStages.1.labelMalePlural>gazeli</Gazelle.lifeStages.1.labelMalePlural>
-  <Gazelle.lifeStages.1.labelPlural>gazele</Gazelle.lifeStages.1.labelPlural>
+  <Gazelle.lifeStages.0.label>niemowlę gazeli</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.0.labelPlural>niemowlęta gazeli</Gazelle.lifeStages.0.labelPlural>
+  <Gazelle.lifeStages.1.label>młoda gazela</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.1.labelPlural>młode gazeli</Gazelle.lifeStages.1.labelPlural>
   <Gazelle.lifeStages.2.label>gazela</Gazelle.lifeStages.2.label>
-  <Gazelle.lifeStages.2.labelFemale>gazela</Gazelle.lifeStages.2.labelFemale>
-  <Gazelle.lifeStages.2.labelFemalePlural>gazeli</Gazelle.lifeStages.2.labelFemalePlural>
-  <Gazelle.lifeStages.2.labelMale>gazela</Gazelle.lifeStages.2.labelMale>
-  <Gazelle.lifeStages.2.labelMalePlural>gazeli</Gazelle.lifeStages.2.labelMalePlural>
   <Gazelle.lifeStages.2.labelPlural>gazele</Gazelle.lifeStages.2.labelPlural>
   
   <!-- EN: iguana -->
   <Iguana.label>iguana</Iguana.label>
-  <Iguana.labelFemale>samica iguany</Iguana.labelFemale>
-  <Iguana.labelFemalePlural>samice iguany</Iguana.labelFemalePlural>
-  <Iguana.labelMale>samiec iguany</Iguana.labelMale>
-  <Iguana.labelMalePlural>samce iguany</Iguana.labelMalePlural>
   <Iguana.labelPlural>iguany</Iguana.labelPlural>
-  <Iguana.lifeStages.0.label>iguana</Iguana.lifeStages.0.label>
-  <Iguana.lifeStages.0.labelFemale>samica iguany</Iguana.lifeStages.0.labelFemale>
-  <Iguana.lifeStages.0.labelFemalePlural>samice iguany</Iguana.lifeStages.0.labelFemalePlural>
-  <Iguana.lifeStages.0.labelMale>samiec iguany</Iguana.lifeStages.0.labelMale>
-  <Iguana.lifeStages.0.labelMalePlural>samce iguany</Iguana.lifeStages.0.labelMalePlural>
-  <Iguana.lifeStages.0.labelPlural>iguany</Iguana.lifeStages.0.labelPlural>
-  <Iguana.lifeStages.1.label>iguana</Iguana.lifeStages.1.label>
-  <Iguana.lifeStages.1.labelFemale>samica iguany</Iguana.lifeStages.1.labelFemale>
-  <Iguana.lifeStages.1.labelFemalePlural>samice iguany</Iguana.lifeStages.1.labelFemalePlural>
-  <Iguana.lifeStages.1.labelMale>samiec iguany</Iguana.lifeStages.1.labelMale>
-  <Iguana.lifeStages.1.labelMalePlural>samce iguany</Iguana.lifeStages.1.labelMalePlural>
-  <Iguana.lifeStages.1.labelPlural>iguany</Iguana.lifeStages.1.labelPlural>
+  <Iguana.lifeStages.0.label>niemowlę iguany</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.0.labelPlural>niemowlęta iguany</Iguana.lifeStages.0.labelPlural>
+  <Iguana.lifeStages.1.label>młoda iguana</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.1.labelPlural>młode iguany</Iguana.lifeStages.1.labelPlural>
   <Iguana.lifeStages.2.label>iguana</Iguana.lifeStages.2.label>
-  <Iguana.lifeStages.2.labelFemale>samica iguany</Iguana.lifeStages.2.labelFemale>
-  <Iguana.lifeStages.2.labelFemalePlural>samice iguany</Iguana.lifeStages.2.labelFemalePlural>
-  <Iguana.lifeStages.2.labelMale>samiec iguany</Iguana.lifeStages.2.labelMale>
-  <Iguana.lifeStages.2.labelMalePlural>samce iguany</Iguana.lifeStages.2.labelMalePlural>
   <Iguana.lifeStages.2.labelPlural>iguany</Iguana.lifeStages.2.labelPlural>
   
   <!-- EN: muffalo -->
   <Muffalo.label>mawół</Muffalo.label>
+  <Muffalo.labelPlural>mawoły</Muffalo.labelPlural>
   <Muffalo.labelFemale>mawolica</Muffalo.labelFemale>
   <Muffalo.labelFemalePlural>mawolice</Muffalo.labelFemalePlural>
   <Muffalo.labelMale>mawół</Muffalo.labelMale>
   <Muffalo.labelMalePlural>mawoły</Muffalo.labelMalePlural>
-  <Muffalo.labelPlural>mawoły</Muffalo.labelPlural>
-  <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>cielę mawoła</Muffalo.lifeStages.muffalo_calf.label>
   <Muffalo.lifeStages.muffalo_calf.labelFemale>cielę mawoła - samica</Muffalo.lifeStages.muffalo_calf.labelFemale>
   <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>cielęta mawoła - samice</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
   <Muffalo.lifeStages.muffalo_calf.labelMale>cielę mawoła - samiec</Muffalo.lifeStages.muffalo_calf.labelMale>
   <Muffalo.lifeStages.muffalo_calf.labelMalePlural>cielęta mawoła - samce</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
-  <!-- EN: muffalo calves -->
   <Muffalo.lifeStages.muffalo_calf.labelPlural>cielęta mawoła</Muffalo.lifeStages.muffalo_calf.labelPlural>
   <Muffalo.lifeStages.1.label>mawół</Muffalo.lifeStages.1.label>
   <Muffalo.lifeStages.1.labelFemale>mawolica</Muffalo.lifeStages.1.labelFemale>

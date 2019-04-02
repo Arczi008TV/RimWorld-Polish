@@ -261,7 +261,7 @@
   <!-- EN: Work amount -->
   <WorkAmount>Ilość pracy</WorkAmount>
   <!-- EN: Minimum skills: -->
-  <MinimumSkills>Minimalny poziom umiejętności:</MinimumSkills>
+  <MinimumSkills>Min. poziom umiejętności:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
   <BillRequires>Wymaga {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
@@ -343,7 +343,7 @@
   <!-- EN: days -->
   <Days>dni</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>Minimalna umiejętność sadzenia jest zbyt niska</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>Min. umiejętność sadzenia jest zbyt niska</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
   <FertilityRequirement>Wymagana żyzność</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
@@ -862,25 +862,5 @@
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
-
-  <!-- UNUSED -->
-  <PermadeathMode>Permanentna śmierć</PermadeathMode>
-  <SurgeryRequireBed>Wymaga łóżka</SurgeryRequireBed>
-  <TradeMassUsageTooltip>Ostateczna masa i dostępna pojemność.</TradeMassUsageTooltip>
-  <CaravanConfigTab>Konfiguracja</CaravanConfigTab>
-  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-  <DaysWorthOfFoodInfo>Jedzenia starczy na {0} dni</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Bazując na aktualnej porze roku, temperaturze oraz otoczeniu szacujemy że roślinożerne zwierząta BĘDĄ mogły jeść lokalne rośliny. Oczywiście może to się w każdej chwili zmienić.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Bazując na aktualnej porze roku, temperaturze oraz otoczeniu szacujemy że roślinożerne zwierząta NIE BĘDĄ mogły jeść lokalnych roślin. Oczywiście może to się w każdej chwili zmienić.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <NoExitDirectionForCaravanChosen>Musisz wybrać kierunek wyjścia karawany.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(brak dostępnych kierunków wyjścia)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Kierunek wyjścia</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <EstimatedTimeToDestinationButton>Szacunkowy czas do celu</EstimatedTimeToDestinationButton>
-  <CaravanSplitSourceLabel>Aktualna</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>Nowa</CaravanSplitDestLabel>
-  <SplitCaravanMassUsageTooltip>Obecna masa i pojemność.</SplitCaravanMassUsageTooltip>
-  <TransportersMassUsageTooltip>Obecna masa i dostępna pojemność.\n\nNie będziesz mógł wysłać kapsuł transportowych, jeśli masa przekroczy pojemność.</TransportersMassUsageTooltip>
-  <ConfirmLeavePrisonersOrAnimalsBehind>Na tym obszarze nadal znajdują się niektórzy więźniowie lub zwierzęta, a ta karawana jest jedyną, do której mogą dołączyć w tym momencie.\n\nJeśli wyruszysz z karawaną, nie będą oni mogli opuścić tego obszaru, dopóki nie wrócisz. Więźniowie zaczną uciekać, ale zwierzęta ciągle będą czekać na twój powrót.\n\nJeśli zdecydujesz się poczekać, postarają się dołączyć do karawany tak szybko, jak to tylko możliwe.\n\nCzy jesteś pewien, że chcesz już wyruszyć?</ConfirmLeavePrisonersOrAnimalsBehind>
 
 </LanguageData>
