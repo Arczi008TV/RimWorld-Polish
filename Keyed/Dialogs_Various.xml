@@ -839,7 +839,7 @@
   <!-- EN: {1_labelShort} will most likely die. -->
   <ConfirmBanishPawnDialog_LeftToDie>{0} prawdopodobnie umrze.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{0} weźnie następujące rzeczy razem z [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{0} weźmie następujące rzeczy razem z [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Wszyscy koloniści będą mieli następujące myśli:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->

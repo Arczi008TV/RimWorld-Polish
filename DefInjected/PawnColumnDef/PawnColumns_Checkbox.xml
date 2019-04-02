@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>Podążaj za właścicielem kiedy jest na słóżbie.</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>Podążaj za właścicielem kiedy jest na służbie.</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
   <FollowFieldwork.headerTip>Podążaj za właścicielem, podczas gdy właściciel wykonuje pracę w terenie (poluje lub oswaja zwierzęta).</FollowFieldwork.headerTip>
