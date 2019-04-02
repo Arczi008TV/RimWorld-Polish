@@ -152,7 +152,7 @@
   <MessageGaveBirth>{0} urodziła.</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} nadał {1} imię: {NAMEE_nameFull} po tym, jak został zszokowany.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} nadał {1} imię: {NAMEE_nameFull} po tym, jak został obwąchany.</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
   <MessageNoHandlerSkilledEnough>Żaden trener nie może oswoić {ANIMAL_kindBase} (Wymaga poziomu {1} w kategorii: {2}, najlepszy trener {HANDLER_labelShort} ma {4}).</MessageNoHandlerSkilledEnough>
