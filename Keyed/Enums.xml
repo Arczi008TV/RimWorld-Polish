@@ -63,7 +63,7 @@
   <!-- EN: awful -->
   <QualityCategory_Awful>tandetny</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>kiepski</QualityCategory_Poor>
+  <QualityCategory_Poor>słaby</QualityCategory_Poor>
   <!-- EN: normal -->
   <QualityCategory_Normal>normalny</QualityCategory_Normal>
   <!-- EN: good -->
@@ -75,17 +75,17 @@
   <!-- EN: legendary -->
   <QualityCategory_Legendary>legendarny</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>tndt</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>tand</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>kpski</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>słab</QualityCategoryShort_Poor>
   <!-- EN: norm -->
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <!-- EN: good -->
-  <QualityCategoryShort_Good>db</QualityCategoryShort_Good>
+  <QualityCategoryShort_Good>dobr</QualityCategoryShort_Good>
   <!-- EN: exc -->
   <QualityCategoryShort_Excellent>wsp</QualityCategoryShort_Excellent>
   <!-- EN: mast -->
-  <QualityCategoryShort_Masterwork>arc</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Masterwork>arcy</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
   <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
   
