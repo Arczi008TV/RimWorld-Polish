@@ -66,9 +66,9 @@
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Choroba</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{0} zachorował od {1}. Upewnij się, że {2} otrzymuje odpowiednią opiekę i spędza tyle czasu w łóżku, ile potrzebuje, aby szybko wyzdrowieć.</NewDisease>
+  <NewDisease>{PAWN} zachorował od {1}. Upewnij się, że {2} otrzymuje odpowiednią opiekę i spędza tyle czasu w łóżku, ile potrzebuje, aby szybko wyzdrowieć.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{0} zachorował od {3}. Ta infekcja jest w [PAWN_possessive] {1}.\n\nUpewnij się, że {2} otrzymuje odpowiednią opiekę i spędza tyle czasu w łóżku, ile potrzebuje, aby szybko wyzdrowieć.</NewPartDisease>
+  <NewPartDisease>{PAWN} zachorował od {3}. Ta infekcja jest w {PAWN_possessive} {1}.\n\nUpewnij się, że {2} otrzymuje odpowiednią opiekę i spędza tyle czasu w łóżku, ile potrzebuje, aby szybko wyzdrowieć.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -386,7 +386,7 @@
   <!-- EN: Disease ({0}) -->
   <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>TODO</LetterTraitDisease>
+  <LetterTraitDisease>{PAWN_label} zachorował na {1}.</LetterTraitDisease>
 
   <!-- UNUSED -->
   <RelationsBrokenDown>Relacje z {0} uległy pogorszeniu. Od teraz są wrogo nastawieni.</RelationsBrokenDown>
