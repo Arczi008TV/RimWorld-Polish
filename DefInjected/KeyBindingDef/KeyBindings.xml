@@ -2,10 +2,11 @@
 <LanguageData>
   
   <!-- EN: accept -->
-  <Accept.label>TODO</Accept.label>
+  <Accept.label>akceptuj</Accept.label>
   
   <!-- EN: cancel -->
-  <Cancel.label>TODO</Cancel.label>
+  <Cancel.label>anuluj</Cancel.label>
+  <Designator_Cancel.label>anuluj</Designator_Cancel.label>
   
   <!-- EN: draft -->
   <Command_ColonistDraft.label>służba</Command_ColonistDraft.label>
@@ -15,10 +16,7 @@
   
   <!-- EN: toggle power -->
   <Command_TogglePower.label>zasilanie</Command_TogglePower.label>
-  
-  <!-- EN: cancel -->
-  <Designator_Cancel.label>anuluj</Designator_Cancel.label>
-  
+
   <!-- EN: deconstruct -->
   <Designator_Deconstruct.label>rozbierz</Designator_Deconstruct.label>
   
@@ -38,7 +36,7 @@
   <Dev_ToggleDebugInspector.label>menu inspektora</Dev_ToggleDebugInspector.label>
   
   <!-- EN: toggle debug log -->
-  <Dev_ToggleDebugLog.label>debug log</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugLog.label>log debugowania</Dev_ToggleDebugLog.label>
   
   <!-- EN: toggle debug log menu -->
   <Dev_ToggleDebugLogMenu.label>menu dziennika debugowania</Dev_ToggleDebugLogMenu.label>
@@ -47,7 +45,7 @@
   <Dev_ToggleDebugSettingsMenu.label>menu ustawienia debugowania</Dev_ToggleDebugSettingsMenu.label>
   
   <!-- EN: toggle god mode -->
-  <Dev_ToggleGodMode.label>tryb boga</Dev_ToggleGodMode.label>
+  <Dev_ToggleGodMode.label>tryb nieśmiertelności</Dev_ToggleGodMode.label>
   
   <!-- EN: dolly down -->
   <MapDolly_Down.label>w dół</MapDolly_Down.label>
@@ -62,10 +60,10 @@
   <MapDolly_Up.label>w górę</MapDolly_Up.label>
   
   <!-- EN: zoom in -->
-  <MapZoom_In.label>zbliżenie</MapZoom_In.label>
+  <MapZoom_In.label>zbliż</MapZoom_In.label>
   
   <!-- EN: zoom out -->
-  <MapZoom_Out.label>oddalenie</MapZoom_Out.label>
+  <MapZoom_Out.label>oddal</MapZoom_Out.label>
   
   <!-- EN: Misc 1 -->
   <Misc1.label>Różne 1</Misc1.label>
@@ -125,25 +123,25 @@
   <TakeScreenshot.label>zrzut ekranu</TakeScreenshot.label>
   
   <!-- EN: game speed: Fast -->
-  <TimeSpeed_Fast.label>czas: szybki</TimeSpeed_Fast.label>
+  <TimeSpeed_Fast.label>czas: Szybki</TimeSpeed_Fast.label>
   
   <!-- EN: game speed: Normal -->
-  <TimeSpeed_Normal.label>czas: normalny</TimeSpeed_Normal.label>
+  <TimeSpeed_Normal.label>czas: Normalny</TimeSpeed_Normal.label>
   
   <!-- EN: game speed: Super fast -->
-  <TimeSpeed_Superfast.label>czas: superszybki</TimeSpeed_Superfast.label>
+  <TimeSpeed_Superfast.label>czas: Superszybki</TimeSpeed_Superfast.label>
   
   <!-- EN: game speed: Ultra fast (debug) -->
-  <TimeSpeed_Ultrafast.label>czas: ultraszybki (debug)</TimeSpeed_Ultrafast.label>
+  <TimeSpeed_Ultrafast.label>czas: Ultraszybki (debug)</TimeSpeed_Ultrafast.label>
   
   <!-- EN: toggle beauty display -->
-  <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
+  <ToggleBeautyDisplay.label>wyświetl atrakcyjność</ToggleBeautyDisplay.label>
   
   <!-- EN: pause/resume game -->
   <TogglePause.label>pauza/wznów</TogglePause.label>
   
   <!-- EN: toggle room stats display -->
-  <ToggleRoomStatsDisplay.label>TODO</ToggleRoomStatsDisplay.label>
+  <ToggleRoomStatsDisplay.label>statystyki pokoju</ToggleRoomStatsDisplay.label>
   
   <!-- EN: toggle screenshot mode -->
   <ToggleScreenshotMode.label>tryb zrzutu ekranu</ToggleScreenshotMode.label>

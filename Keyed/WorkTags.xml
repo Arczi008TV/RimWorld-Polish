@@ -20,17 +20,17 @@
   <!-- EN: artistic -->
   <WorkTagArtistic>artystyczne</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>wytwarzanie</WorkTagCrafting>
+  <WorkTagCrafting>rzemieślnicze</WorkTagCrafting>
   <!-- EN: cooking -->
   <WorkTagCooking>gotowanie</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>gaszenie pożarów</WorkTagFirefighting>
+  <WorkTagFirefighting>strażackie</WorkTagFirefighting>
   <!-- EN: cleaning -->
   <WorkTagCleaning>sprzątanie</WorkTagCleaning>
   <!-- EN: hauling -->
   <WorkTagHauling>transport</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>uprawa roślin</WorkTagPlantWork>
+  <WorkTagPlantWork>ogrodnicze</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>górnictwo</WorkTagMining>
 

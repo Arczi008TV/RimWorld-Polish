@@ -6,9 +6,9 @@
   <!-- EN: the -->
   <DefiniteArticle></DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm> {0}</IndefiniteForm>
+  <IndefiniteForm>{0}</IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm> {0}</DefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
 
   <!-- EN: its -->
   <Proits>tego</Proits>
