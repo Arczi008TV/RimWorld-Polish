@@ -721,7 +721,7 @@
   <!-- EN: Drugs policy is in use by {0}. -->
   <DrugPolicyInUse>Polityka wobec narkotyków jest używana przez {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Ograniczenia żywności są w użyciu przez {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Narkotyki społeczne</SocialDrugs>
   <!-- EN: No drugs -->
@@ -779,27 +779,27 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>TODO</FoodRestriction>
+  <FoodRestriction>Ograniczenia żywności</FoodRestriction>
   <!-- EN: Lavish -->
-  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
+  <FoodRestrictionLavish>Obfite</FoodRestrictionLavish>
   <!-- EN: Fine -->
-  <FoodRestrictionFine>TODO</FoodRestrictionFine>
+  <FoodRestrictionFine>Dobre</FoodRestrictionFine>
   <!-- EN: Simple -->
-  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
+  <FoodRestrictionSimple>Proste</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Pasta</FoodRestrictionPaste>
   <!-- EN: Raw -->
   <FoodRestrictionRaw>Surowe</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Nic</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>TODO</SelectFoodRestriction>
+  <SelectFoodRestriction>Wybierz ograniczenie żywności</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>TODO</NewFoodRestriction>
+  <NewFoodRestriction>Nowe ograniczenie żywności</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Usuń ograniczenie żywności</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Brak wybranych ograniczeń żywności</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->
