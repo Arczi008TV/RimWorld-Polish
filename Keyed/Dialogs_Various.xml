@@ -391,13 +391,13 @@
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Dziksze zwierzęta są naturalnie trudniejsze do oswojenia, trenowania i obchodzenia się z nimi.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>TODO</TrainingDecayInterval>
+  <TrainingDecayInterval>Okres zaniknięcia umiejętności</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
+  <TamenessWillNotDecay>Oswojenie nigdy nie zaniknie.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>Stopień brudu u zwierząt</AnimalFilthRate>
+  <AnimalFilthRate>Częstotliwość brudzenia zwierzęcia</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Zwierzęta produkują brud kiedy poruszają się po wybudowanych podłogach. Powstają one w średniej ilości na {0} komórek wokół tego stworzenia.\n\nWiększe albo mniej udomowione zwierzęta produkują więcej zanieczyszczeń.</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>Zwierzęta brudzą kiedy poruszają się po wybudowanych podłogach. Powstają one w średniej ilości na {0} komórek wokół tego stworzenia.\n\nWiększe albo mniej udomowione zwierzęta produkują więcej zanieczyszczeń.</AnimalFilthRateExplanation>
   <!-- EN: Time -->
   <TimeRecordsCategory>Czas</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -423,29 +423,29 @@
   <!-- EN: Nuzzle interval -->
   <NuzzleInterval>Częstotliwość węszenia</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>Jak (średnio) często zwierzę będzie obwąchiwać przyjaznych kolonistów.\n\nObwąchiwanie jest wspólnym zachowaniem wielu gatunków zwierząt, gdzie zwierzę dotyka nosem lub pyskiem swojego przyjaciela jako znak przywiązania. Większość ludzi uważa to za słodkie i poprawi im nastrój na pewien czas.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <HarmedRevengeChance>Szansa zemsty za skrzywdzenie</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
   <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
+  <TameFailedRevengeChance>Szansa zemsty za nieudane oswojenie</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>TODO</TerrainRequirement>
+  <TerrainRequirement>Wymagania terenu</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>TODO</Supports>
+  <Supports>Pomocnicy</Supports>
   <!-- EN: Trap armor penetration -->
   <TrapArmorPenetration>TODO</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>TODO</RearmCost>
+  <RearmCost>Koszt przezbrojenia</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>TODO</RearmCostExplanation>
+  <RearmCostExplanation>Zasoby potrzebne do przezbrojenia (zależne od poziomu trudności).</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
+  <ShotsBeforeRearm>Strzały przed przezbrojeniem</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>Jak wiele strzałów odda ta wieżyczka zanim zostanie przezbrojona.</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>TODO</PowerConsumption>
+  <PowerConsumption>Pobór energii</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
@@ -511,15 +511,15 @@
   <!-- EN: Final price -->
   <FinalPrice>Ostateczna cena</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>TODO</GiftModeTip>
+  <GiftModeTip>Tryb podarunku - zaoferuj podarunek {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>TODO</TradeModeTip>
+  <TradeModeTip>Powróć do trybu handlowania.</TradeModeTip>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
-  <SellableItemsTitle>TODO</SellableItemsTitle>
+  <SellableItemsTitle>Przedmioty które kupi ten handlarz</SellableItemsTitle>
   <!-- EN: Creatures -->
-  <PawnsTabShort>TODO</PawnsTabShort>
+  <PawnsTabShort>Stworzenia</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
@@ -539,7 +539,7 @@
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>Uwaga: niektórzy z wybranych kolonistów nie są w stanie dostać się do miejsca wyjścia ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unreachable by any of the assigned colonists. -->
-  <CaravanPawnIsUnreachable>{0} jest nieosiągalny dla wybranych kolonistów.</CaravanPawnIsUnreachable>
+  <CaravanPawnIsUnreachable>{1_labelShort} jest nieosiągalny dla wybranych kolonistów.</CaravanPawnIsUnreachable>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Żaden z wybranych kolonistów nie jest w stanie dostać się do {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -549,25 +549,25 @@
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
   <CaravanMassUsageTooltip>Obecna masa i pojemność.\n\nMasa obejmuje wybrane zaopatrzenie karawany i sprzęt kolonistów.\n\nNie będziesz mógł wysłać karawany w podróż, jeśli masa przekroczy pojemność.</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
+  <CaravanVisibilityTip>Widoczność określa, jak łatwo można dostrzec twoją karawanę.\n\nPodwaja szansę, że twoja karawana zostanie napadnięta przez wrogów.\n\Widzialność nie wpływa na zdolność znajdowania pożądanych przedmiotów..\n\n Widoczność opiera się na całkowitej wielkości ciała wszystkich ludzi i zwierząt w karawanie.</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>TODO</DaysWorthOfFood>
+  <DaysWorthOfFood>Racje żywnościowe</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
-  <DaysWorthOfFoodInfoRot>Jedzenia starczy na {0} dni, zgnije w ciągu {1} dni</DaysWorthOfFoodInfoRot>
+  <DaysWorthOfFoodInfoRot>zgnije w ciągu {0} dni</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Nigdy nie zabraknie jedzenia</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Przybliżona liczba dni, po których karawanie zabraknie jedzenia.\n\nPod uwagę brane jest zarówno ludzkie, jak i zwierzęce pożywienie. Liczba ta bierze pod uwagę najgorszy możliwy scenariusz. Oznacza to, że gdy minie ten czas, przynajmniej jedna osoba lub zwierzę nie będzie miała jedzenia.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Przybliżona liczba dni, w których co najmniej jedna osoba lub zwierzę będzie pozbawiona żywności. Ludzie i odmienne gatunki zwierząt potrzebują różnych rodzajów żywności, więc komuś może zabraknąć pożywienia przed innymi. Ta wartość jest obliczana dokładniej po wybraniu trasy.\n\nZależne od:\n  - Ilości i typu niesionej żywności\n  - Uczestników karawany i ich diety\n  - Intensywności zbiorów\n  - Możliwości wypasu zwierząt\n  - Czasu zanim żywność zgnije\n  - Temperatury powietrza</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Twoja karawana ma jedzenie na tylko {0} dni, więc jej członkowie szybko zaczną głodować.</DaysWorthOfFoodWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>Twoja karawana nie ma jedzenia i szybko zacznie głodować.</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>Twoja karawana nie ma jedzenia i szybko stanie się głodna.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>Średnia ilość żywności dziennie, którą zbiorą twoi ludzie.</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
-  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
+  <ForagedFoodPerDay>Dzienne zbiory</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
   <CaravanFoodWillRotSoonWarningDialog>Ogromna część oznaczonego jedzenia wkrótce zgnije.</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
@@ -575,9 +575,9 @@
   <!-- EN: Are you sure you want to form this caravan? -->
   <CaravanAreYouSure>Czy na pewno chcesz stworzyć tę karawanę?</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>Najpierw musisz wybrać trasę podróży dla karawany.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
+  <MessageNoValidExitTile>Twoja karawana nie może opuścić tego obszaru. Upewnij się, że przynajmniej jedna strona jest osiągalna.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>Waga tego przedmiotu.</ItemWeightTip>
   <!-- EN: Market value -->
