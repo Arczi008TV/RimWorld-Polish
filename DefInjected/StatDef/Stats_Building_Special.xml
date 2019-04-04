@@ -67,6 +67,6 @@
   <!-- EN: work to build -->
   <WorkToBuild.label>ilość pracy budowlanej</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>Ilość pracy, jaka jest potrzebna, aby zbudować strukturę, gdy zostaną zgromadzone wszystkie materiały i narzędzia.</WorkToBuild.description>
+  <WorkToBuild.description>Ilość, jaka jest potrzebna, aby zbudować strukturę, gdy zostaną zgromadzone wszystkie materiały i narzędzia.</WorkToBuild.description>
   
 </LanguageData>

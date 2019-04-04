@@ -70,6 +70,6 @@
   <!-- EN: work to make -->
   <WorkToMake.label>ilość pracy</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
-  <WorkToMake.description>Ilość pracy, jaka jest potrzebna, aby wykonać obiekt, gdy zostaną zgromadzone wszystkie materiały i narzędzia.</WorkToMake.description>
+  <WorkToMake.description>Ilość, jaka jest potrzebna, aby wykonać obiekt, gdy zostaną zgromadzone wszystkie materiały i narzędzia.</WorkToMake.description>
   
 </LanguageData>

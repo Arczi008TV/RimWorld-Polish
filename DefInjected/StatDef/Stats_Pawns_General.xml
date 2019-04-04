@@ -24,7 +24,7 @@
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>ilość zebranej żywności</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
-  <ForagedNutritionPerDay.description>Ilość żywności, którą ta osoba może automatycznie zebrać w ciągu dnia podczas podróży z karawaną.</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>Ilość, którą ta osoba może automatycznie zebrać w ciągu dnia podczas podróży z karawaną.</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
   <GlobalLearningFactor.label>szybkość nauki</GlobalLearningFactor.label>
@@ -44,12 +44,12 @@
   <!-- EN: leather amount -->
   <LeatherAmount.label>ilość skóry</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>Ilość skóry, jaką uzyskasz po zarżnięciu tego stworzenia.</LeatherAmount.description>
+  <LeatherAmount.description>Ilość, jaką uzyskasz po zarżnięciu tego stworzenia.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>ilość mięsa</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>Ilość mięsa, jaką uzyskasz po zarżnięciu tego stworzenia.</MeatAmount.description>
+  <MeatAmount.description>Ilość, jaką uzyskasz po zarżnięciu tego stworzenia.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>próg poziomu załamania</MentalBreakThreshold.label>
