@@ -238,11 +238,11 @@
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>Pokaż wszystko</ShowAll>
+  <ShowAll>Wszystko</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>Pokaż bitewne</ShowCombat>
+  <ShowCombat>Bitewne</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>Pokaż towarzyskie</ShowSocial>
+  <ShowSocial>Towarzyskie</ShowSocial>
   <!-- EN: no recent entries -->
   <NoRecentEntries>brak ostatnich wpisów</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->

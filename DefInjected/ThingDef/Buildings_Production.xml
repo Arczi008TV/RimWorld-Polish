@@ -99,7 +99,7 @@
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>dozownik pasty odżywczej</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>Maszyna, która syntetyzuje jadalną pastę odżywczą z surowców organicznych umieszczonych w sąsiednich zasobnikach. Zużywa mniej składników i czasu niż jakakolwiek inna metoda produkcji posiłków - ale nikt nie lubi jeść pasty odżywczej. Przyjmuje surową żywność, ale nie szorstką materię roślinną, taką jak siano.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>Maszyna, która syntetyzuje jadalną pastę odżywczą z surowców organicznych umieszczonych w sąsiednich zasobnikach. Zużywa mniej składników i czasu niż jakakolwiek inna metoda produkcji posiłków - ale nikt nie lubi jeść pasty odżywczej. Przyjmuje surową żywność, ale nie chropowatą materię roślinną, taką jak siano.</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>stół badawczy</SimpleResearchBench.label>

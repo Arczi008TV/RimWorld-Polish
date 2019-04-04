@@ -65,7 +65,7 @@
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>już wypełnione</AlreadyFilledLower>
   <!-- EN: need material -->
-  <MissingMaterials>potrzebne materiały</MissingMaterials>
+  <MissingMaterials>potrzebny materiał</MissingMaterials>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>poniżej wymaganej umiejętności</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -298,34 +298,34 @@
   <CannotGenericWorkCustom>Nie można {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize (incapable of {0}) -->
-  <CannotMissingHealthActivities>Nie można ustawić priorytetu (niezdolny do {0}).</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Nie można zająć się (niezdolny do {0}).</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Już zajmuje się {0}: {2_labelShort}</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
-  <CannotPrioritizeWorkTypeDisabled>Nie można ustawić priorytetu (nigdy nie zrobi {0}).</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Nie można zająć się (nigdy nie zrobi {0}).</CannotPrioritizeWorkTypeDisabled>
 
   <!-- EN: Cannot prioritize (will never {0}) -->
-  <CannotPrioritizeWorkGiverDisabled>Nie można ustawić priorytetu (nigdy nie będzie {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Nie można zająć się (nigdy nie będzie {0})</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>nigdy nie będzie {0}</WillNever>
 
   <!-- EN: Cannot prioritize (not assigned to {0}) -->
-  <CannotPrioritizeNotAssignedToWorkType>Nie można ustawić priorytetu (nie przypisany do {0}).</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Nie można zająć się (nie przypisany do: {0}).</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>nie przypisany</NotAssigned>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
-  <CannotPrioritizeResearch>Nie można ustawić priorytetu (badania są zadaniem długoterminowym)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Nie można zająć się (badania są zadaniem długoterminowym)</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
-  <CannotPrioritizeForbidden>Nie można ustawić priorytetu  ({0} jest zabronione).</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Nie można zająć się  ({0} jest zabronione).</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
-  <CannotPrioritizeCellForbidden>Nie można ustawić priorytetu (zabroniono)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>Nie można zająć się (zabroniono)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Nie można ustawić priorytetu ({0} znajduje się poza dozwolonym obszarem).</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Nie można zająć się ({0} znajduje się poza dozwolonym obszarem).</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -338,7 +338,7 @@
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>Zaatakuj {0}: Zostaw na skraju</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
-  <AttackAndDropInCenter>Zostaw na środku</AttackAndDropInCenter>
+  <AttackAndDropInCenter>Zaatakuj {0}: Zostaw na środku</AttackAndDropInCenter>
   
   <!-- EN: vomiting -->
   <VomitingLower>wymiotuje</VomitingLower>
@@ -371,13 +371,13 @@
   <!-- EN: Give to {0} -->
   <GiveToCaravan>Wręcz {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>Wręcz jako podarunek {0} ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Wręcz {0} jako podarunek ({1})</GiveGiftViaTransportPods>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
   <FreePrisoner>Uwolnij więźnia</FreePrisoner>
   <!-- EN: Offer help -->
-  <OfferHelp>Ofiaruj pomoc</OfferHelp>
+  <OfferHelp>Zaoferuj pomoc</OfferHelp>
   
   <!-- UNUSED -->
   <MissingSkill>umiejętność zbyt niska</MissingSkill>

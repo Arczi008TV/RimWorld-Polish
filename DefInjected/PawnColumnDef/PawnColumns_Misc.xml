@@ -11,10 +11,10 @@
   <DrugPolicy.label>polityka narkotyków</DrugPolicy.label>
   
   <!-- EN: food restriction -->
-  <FoodRestriction.label>TODO</FoodRestriction.label>
+  <FoodRestriction.label>ograniczenie żywności</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
-  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  <HostilityResponse.headerTip>Reakcja na wrogów</HostilityResponse.headerTip>
   
   <!-- EN: master -->
   <Master.label>właściciel</Master.label>

@@ -17,7 +17,7 @@
   <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
   
   <!-- EN: allow fresh -->
-  <AllowFresh.label>TODO</AllowFresh.label>
+  <AllowFresh.label>pozwól na świeże</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>TODO</AllowFresh.description>
   
@@ -35,7 +35,7 @@
   <AllowPlantFood.description>TODO</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
-  <AllowRotten.label>TODO</AllowRotten.label>
+  <AllowRotten.label>pozwól na zgniłe</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
   <AllowRotten.description>TODO</AllowRotten.description>
   

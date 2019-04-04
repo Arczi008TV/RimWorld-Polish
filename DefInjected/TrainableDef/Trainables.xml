@@ -4,7 +4,7 @@
   <!-- EN: haul -->
   <Haul.label>transport</Haul.label>
   <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>Od czasu do czasu zwierzę będzie transportować przypadkowe przedmioty. Nie może być przypisane do przenoszenia konkretnych rzeczy.</Haul.description>
+  <Haul.description>Od czasu do czasu zwierzę będzie transportować przypadkowe przedmioty. Ale nie można go wysłać do przenoszenia konkretnych rzeczy.</Haul.description>
   
   <!-- EN: obedience -->
   <Obedience.label>posłuszeństwo</Obedience.label>
@@ -14,16 +14,16 @@
   <!-- EN: release -->
   <Release.label>wypuszczanie</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just defending its master. -->
-  <Release.description>Wypuszczone zwierzę może atakować cele oddalone od swego właściciela.</Release.description>
+  <Release.description>Zwierzę może być wypuszczone by atakowało oddalone cele, zamiast tylko bronić swojego właściciela.</Release.description>
   
   <!-- EN: rescue -->
   <Rescue.label>ratunek</Rescue.label>
   <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
-  <Rescue.description>Zwierzę może ratować rannych kolonistow i odnosić ich w bezpieczne miejsce.</Rescue.description>
+  <Rescue.description>Zwierzę może ratować rannych kolonistów i odnosić ich w bezpieczne miejsce.</Rescue.description>
   
   <!-- EN: tameness -->
-  <Tameness.label>TODO</Tameness.label>
+  <Tameness.label>oswajanie</Tameness.label>
   <!-- EN: The animal can learn to consider itself a member of your colony. -->
-  <Tameness.description>TODO</Tameness.description>
+  <Tameness.description>Zwierzę może nauczyć się postrzegania siebie jako członka kolonii.</Tameness.description>
   
 </LanguageData>

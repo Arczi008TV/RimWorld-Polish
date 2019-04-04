@@ -41,10 +41,10 @@
   <Flick.reportString>przełącza przełącznik.</Flick.reportString>
   
   <!-- EN: following TargetA. -->
-  <Follow.reportString>TODO</Follow.reportString>
+  <Follow.reportString>podąża za TargetA.</Follow.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>TODO</FollowClose.reportString>
+  <FollowClose.reportString>podąża za TargetA.</FollowClose.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>bierze TargetA.</GiveToPackAnimal.reportString>
@@ -59,10 +59,10 @@
   <GotoWander.reportString>przechadza się.</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>niesie TargetA.</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>wlecze TargetA.</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToTransporter.reportString>TODO</HaulToTransporter.reportString>
+  <HaulToTransporter.reportString>niesie TargetA.</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>podpala TargetA.</Ignite.reportString>
@@ -86,7 +86,7 @@
   <ManTurret.reportString>używa wieżyczki.</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>TODO</OfferHelp.reportString>
+  <OfferHelp.reportString>pomaga TargetA.</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
   <Open.reportString>otwiera TargetA.</Open.reportString>
@@ -95,16 +95,16 @@
   <RearmTrap.reportString>uzbraja TargetA.</RearmTrap.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>TODO</RearmTurret.reportString>
+  <RearmTurret.reportString>przezbraja TargetA.</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>przezbraja TargetA.</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
   <Refuel.reportString>tankuje TargetA.</Refuel.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>TODO</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>tankuje TargetA.</RefuelAtomic.reportString>
   
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>zdejmuje TargetA.</RemoveApparel.reportString>

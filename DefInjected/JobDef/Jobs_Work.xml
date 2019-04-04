@@ -56,7 +56,7 @@
   <HarvestDesignated.reportString>zbiera TargetA.</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>niesie TargetA.</HaulToCell.reportString>
+  <HaulToCell.reportString>wlecze TargetA.</HaulToCell.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToContainer.reportString>niesie TargetA.</HaulToContainer.reportString>

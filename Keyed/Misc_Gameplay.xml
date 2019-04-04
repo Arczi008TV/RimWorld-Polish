@@ -33,7 +33,7 @@
   <!-- EN: Dead for {0} -->
   <DeadTime>Nie żyje od {0}</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>szybkość ruchu: {0}</WalkSpeed>
+  <WalkSpeed>szybk. ruchu: {0}</WalkSpeed>
   <!-- EN: fert. -->
   <FertShort>żyzn.</FertShort>
   <!-- EN: dying -->
@@ -209,7 +209,7 @@
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Oferuje podarunki dla {0}.</CaravanOfferingGifts>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Skażone bo było założone na zwłokach.</WasWornByCorpse>
+  <WasWornByCorpse>Skażone, bo było założone na zwłokach.</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>D</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -217,7 +217,7 @@
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>na zewnątrz</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
-  <DeterioratingBecauseOf>Psuje się, ponieważ jest</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Niszczeje bo jest</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>Mapa</Map>
   <!-- EN: {0} until leaving -->
@@ -611,7 +611,7 @@
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>od</OfLower>
+  <OfLower>z</OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
