@@ -293,9 +293,9 @@
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Nie można {0} {1}</CannotGenericWork>
+  <CannotGenericWork>Nie można zająć się {0} {1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>Nie można {0}</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>Nie można zająć się {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize (incapable of {0}) -->
   <CannotMissingHealthActivities>Nie można zająć się (niezdolny do {0}).</CannotMissingHealthActivities>

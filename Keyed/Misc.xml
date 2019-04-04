@@ -101,9 +101,9 @@
   <SmoothStoneTerrainDesc>wygładzona podłoga - {0}.</SmoothStoneTerrainDesc>
 
   <!-- EN: (blueprint) -->
-  <BlueprintLabelExtra> (plan)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>(plan)</BlueprintLabelExtra>
   <!-- EN: (building) -->
-  <FrameLabelExtra> (budowa)</FrameLabelExtra>
+  <FrameLabelExtra>(budowa)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Niezrzeszony</FactionUnaffiliated>
