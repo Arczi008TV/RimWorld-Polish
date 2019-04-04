@@ -779,7 +779,7 @@
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>Ogran. żywności</FoodRestriction>
+  <FoodRestriction>Dieta</FoodRestriction>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Obfite</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -793,13 +793,13 @@
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Nic</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Wybierz ograniczenie żywności</SelectFoodRestriction>
+  <SelectFoodRestriction>Wybierz dietę</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Nowe ograniczenie żywności</NewFoodRestriction>
+  <NewFoodRestriction>Nowa dieta</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Usuń ograniczenie żywności</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Usuń dietę</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Brak wybranych ograniczeń żywności</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>Brak wybranych diet</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
   <!-- EN: Defaults -->

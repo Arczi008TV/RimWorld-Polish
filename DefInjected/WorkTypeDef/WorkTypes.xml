@@ -70,7 +70,7 @@
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
   <Doctor.description>Lecz chorych, przynoś im jedzenie, rozweselaj i wykonywanuj przydziele zabiegi operacyjne. Lekarze będą opiekować się zarówno kolonistami, jak i więźniami.</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>leczenie</Doctor.gerundLabel>
+  <Doctor.gerundLabel>medycyna</Doctor.gerundLabel>
   <!-- EN: Doctor -->
   <Doctor.labelShort>Lekarz</Doctor.labelShort>
   <!-- EN: Doctor -->

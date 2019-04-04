@@ -11,7 +11,7 @@
   <DrugPolicy.label>polityka narkotyków</DrugPolicy.label>
   
   <!-- EN: food restriction -->
-  <FoodRestriction.label>ograniczenie żywności</FoodRestriction.label>
+  <FoodRestriction.label>dieta</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
   <HostilityResponse.headerTip>Reakcja na wrogów</HostilityResponse.headerTip>

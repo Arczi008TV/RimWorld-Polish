@@ -16,11 +16,11 @@
   <Artistic.skillLabel>artystyczne</Artistic.skillLabel>
   
   <!-- EN: construction -->
-  <Construction.label>budownictwo</Construction.label>
+  <Construction.label>budownicze</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
   <Construction.description>Inżynierowie budują konstrukcje i meble tym szybciej i lepszej jakości, im większe mają doświadczenie.</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>budowanie</Construction.skillLabel>
+  <Construction.skillLabel>budownicze</Construction.skillLabel>
   
   <!-- EN: cooking -->
   <Cooking.label>gotowanie</Cooking.label>
@@ -30,11 +30,11 @@
   <Cooking.skillLabel>gotowanie</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>rzemieślnictwo</Crafting.label>
+  <Crafting.label>rzemieślnicze</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>Tworzenie przedmiotów takich jak broń i narzędzia.</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>rzemieślnictwo</Crafting.skillLabel>
+  <Crafting.skillLabel>rzemieślnicze</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
   <Intellectual.label>intelektualne</Intellectual.label>
