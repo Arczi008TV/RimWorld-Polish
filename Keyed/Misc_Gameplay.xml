@@ -225,7 +225,7 @@
   <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
   <ForceExitAndRemoveMapCountdownTip>Twoi koloniści automatycznie zmienią karawanę i opuszczą ten obszar za {0}.</ForceExitAndRemoveMapCountdownTip>
   <!-- EN: Room -->
-  <Room>Pokój</Room>
+  <Room>Pomieszczenie</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>Piękno</BeautyHere>
   <!-- EN: No power -->
