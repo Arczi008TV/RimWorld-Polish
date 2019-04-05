@@ -88,12 +88,12 @@
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>miły</Kind.degreeDatas.kind.label>
   <!-- EN: {PAWN_nameDef} is a nice person. {PAWN_pronoun} has a tendency to brighten everyone else's day and never insults others. -->
-  <Kind.degreeDatas.kind.description>[PAWN_nameDef] jest miłą osobą. Ma [PAWN_pronoun] tendencję do polepszania nastroju wszystkich dookoła i nigdy ich nie obraża.</Kind.degreeDatas.kind.description>
+  <Kind.degreeDatas.kind.description>{PAWN_nameDef} jest miłą osobą. Ma [PAWN_pronoun] tendencję do polepszania nastroju wszystkich dookoła i nigdy ich nie obraża.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>masochista</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>[PAWN_nameDef] odczuwa ból jako coś niesamowicie przyjemnego. Nie wie dlaczego, ale widocznie rożni się [PAWN_pronoun] od innych.</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>{PAWN_nameDef} odczuwa ból jako coś niesamowicie przyjemnego. Nie wie dlaczego, ale widocznie rożni się {PAWN_pronoun} od innych.</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>nocny marek</NightOwl.degreeDatas.night_owl.label>
@@ -125,17 +125,13 @@
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
   <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
   
-  <!-- UNUSED -->
-  <SuperImmune.degreeDatas.0.label>super-odporny</SuperImmune.degreeDatas.0.label>
-  <SuperImmune.degreeDatas.0.description>[PAWN_nameDef]ma naturalnie silny układ odpornościowy. [PAWN_pronoun] zyska odporność znacznie szybciej niż normalna osoba i może przetrwać choroby, które zabijają innych.</SuperImmune.degreeDatas.0.description>
-  
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>geniusz</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
   <TooSmart.degreeDatas.too_smart.description>[PAWN_nameDef] to niesamowicie inteligentna osoba. Uczy się [PAWN_pronoun] wszystkiego znacznie szybciej, ale [PAWN_possessive] zachowanie może być postrzegane jako nieco... ekscentryczne.</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>TODO</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.label>twardziel</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
   <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
   
@@ -145,13 +141,13 @@
   <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] czuje ograniczenie, znajdując się w ludzkim ciele. Często śni o bionicznych implantach.</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>TODO</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>podziemca</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>TODO</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} nie ma potrzeby wychodzenia na zewnątrz czy na światło dzienne. {PAWN_pronoun} nigdy nie będzie się czuł jak w klatce i nie dozna klaustrofobii. Nie ważne jak długo {PAWN_pronoun} przebywa wewnątrz, nie przejmuje się ciemnością.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
   <Wimp.degreeDatas.wimp.label>mięczak</Wimp.degreeDatas.wimp.label>
   <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
-  <Wimp.degreeDatas.wimp.description>[PAWN_nameDef] jest słaby i tchórzliwy. Nawet najdelikatniejszy ból [PAWN_objective] unieruchamia.</Wimp.degreeDatas.wimp.description>
+  <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} jest słaby i tchórzliwy. Nawet najdelikatniejszy ból {PAWN_objective} sparaliżuje.</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>
