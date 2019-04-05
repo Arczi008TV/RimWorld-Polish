@@ -446,9 +446,9 @@
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>Pokaż co kupi</CommandShowSellableItems>
+  <CommandShowSellableItems>Pokaż co chciałby kupić</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>Pokazuje wszystko co chciałby kupić ten handlowiec.</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>Pokazuje wszystko co zainteresuje handlowca.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->

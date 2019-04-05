@@ -349,10 +349,10 @@
     <li>tale_noun->sprzedaż [prisoner_nameShortDef] handlarzowi</li>
     <li>image->[trader_nameFull] kupuje [prisoner_nameFull] od [seller_nameFull] [circumstance_group].</li>
     <li>image->[seller_nameFull] sprzedaje [prisoner_nameFull] do [trader_nameFull] [circumstance_group]</li>
-    <li>circumstance_phrase->, jak inni koloniści patrzą z dezapropatą.</li>
+    <li>circumstance_phrase->, jak inni koloniści patrzą z dezaprobatą.</li>
     <li>circumstance_phrase->chwilę [seller_nameShortDef] liczy [trader_possessive] pieniądze.</li>
     <li>circumstance_phrase->, gdy [prisoner_nameShortDef] żałośnie jęczy.</li>
-    <li>circumstance_phrase->ku rozczarowniu [prisoner_nameShortDef].</li>
+    <li>circumstance_phrase->ku rozczarowaniu [prisoner_nameShortDef].</li>
     <li>desc_sentence->[trader_nameShortDef] uśmiecha się diabelnie.</li>
     <li>desc_sentence->[seller_nameShortDef] śmieje się maniakalnie.</li>
     <li>desc_sentence->[seller_nameShortDef] niechętnie przekazuje [prisoner_nameShortDef] handlarzowi.</li>

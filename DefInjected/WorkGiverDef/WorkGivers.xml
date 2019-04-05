@@ -289,18 +289,18 @@
   <DoctorTendToSelf.verb>TODO</DoctorTendToSelf.verb>
   
   <!-- EN: execute prisoners -->
-  <DoExecution.label>TODO</DoExecution.label>
+  <DoExecution.label>przeprowadzaj egzekucje więźniów</DoExecution.label>
   <!-- EN: doing execution on -->
-  <DoExecution.gerund>TODO</DoExecution.gerund>
+  <DoExecution.gerund>przeprowadzanie egzekucji na</DoExecution.gerund>
   <!-- EN: do execution on -->
-  <DoExecution.verb>TODO</DoExecution.verb>
+  <DoExecution.verb>przeprowadzaniem egzekucji na</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
   <Drill.label>wykonuj głębokie odwierty</Drill.label>
   <!-- EN: drilling -->
-  <Drill.gerund>TODO</Drill.gerund>
+  <Drill.gerund>wiercenie</Drill.gerund>
   <!-- EN: drill -->
-  <Drill.verb>TODO</Drill.verb>
+  <Drill.verb>wierceniem</Drill.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>karm więźniów</FeedPrisoner.label>
@@ -331,7 +331,7 @@
   <FixBrokenDownBuilding.verb>TODO</FixBrokenDownBuilding.verb>
   
   <!-- EN: flick switches -->
-  <Flick.label>TODO</Flick.label>
+  <Flick.label>przestawiaj przełączniki</Flick.label>
   <!-- EN: flicking switch on -->
   <Flick.gerund>TODO</Flick.gerund>
   <!-- EN: flick switch on -->

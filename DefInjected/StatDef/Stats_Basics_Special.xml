@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeedFactor.label>TODO</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.label>szybkość konstrukcji</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast. -->
   <ConstructionSpeedFactor.description>TODO</ConstructionSpeedFactor.description>
   
