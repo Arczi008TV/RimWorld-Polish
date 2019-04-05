@@ -14,7 +14,7 @@
   <!-- EN: food -->
   <Food.label>jedzenie</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>Jest ilością pokarmu, jaką postać niedawno zjadła. Jeżeli wyniesie ona zero, dana postać stanie się ekstremalnie niedożywiona i będzie mogła nawet umrzeć.</Food.description>
+  <Food.description>Ilość pokarmu, jaką postać niedawno zjadła. Jeżeli wyniesie ona zero, dana postać stanie się ekstremalnie niedożywiona i będzie mogła nawet umrzeć.</Food.description>
   
   <!-- EN: recreation -->
   <Joy.label>rozrywka</Joy.label>
@@ -27,7 +27,7 @@
   <Mood.description>Reprezentuje poziom zadowolenia lub zestresowania kolonistów. Jeżeli nastrój będzie zbyt niski, kolonista może przejść załamanie nerwowe. Występuje kilka kategorii załamania nerwowego, które posiadają różną intensywność.</Mood.description>
   
   <!-- EN: outdoors -->
-  <Outdoors.label>TODO</Outdoors.label>
+  <Outdoors.label>na dworze</Outdoors.label>
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
   <Outdoors.description>TODO</Outdoors.description>
   

@@ -57,7 +57,7 @@
   <Cooking.verb>Gotuje</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>Wykonuj ogólne nisko-wykwalifikowane czynności przy stanowiskach pracy. Obejmuje to kamieniarstwo, wytapianie i inne.</Crafting.description>
+  <Crafting.description>Wykonuj ogólne nisko-wykwalifikowane czynności przy specjalnych stanowiskach. Obejmuje to kamieniarstwo, wytapianie i inne.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>rzemiosło</Crafting.gerundLabel>
   <!-- EN: Craft -->
@@ -169,11 +169,11 @@
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>Wytnij lub zbierz plony z oznaczonych roślin.</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>ogrodnictwo</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>leśnictwo</PlantCutting.gerundLabel>
   <!-- EN: Plant cut -->
-  <PlantCutting.labelShort>Ogrodnik</PlantCutting.labelShort>
+  <PlantCutting.labelShort>Leśniczy</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
-  <PlantCutting.pawnLabel>Ogrodnik</PlantCutting.pawnLabel>
+  <PlantCutting.pawnLabel>Leśniczy</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
   <PlantCutting.verb>Wycina</PlantCutting.verb>
   

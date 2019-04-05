@@ -81,7 +81,7 @@
   <!-- EN: no food -->
   <NoFood>brak jedzenia</NoFood>
   <!-- EN: animals skill too low - need {0} -->
-  <AnimalsSkillTooLow>umiejętność zwierzęcia zbyt niska</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>umiejętność zwierzęca zbyt niska</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
   <CantInteractAnimalDowned>zwierzę poległo</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
@@ -186,9 +186,9 @@
   <CannotManThing>Nie można obsłużyć {1_labelShort}</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
-  <ForceWear>Wymuś założenie {0}</ForceWear>
+  <ForceWear>Wymuś założenie {1_labelShort}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>Nie można założyć {0}</CannotWear>
+  <CannotWear>Nie można założyć {1_label}</CannotWear>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>brakujące części ciała</CannotWearBecauseOfMissingBodyParts>
   
@@ -298,34 +298,34 @@
   <CannotGenericWorkCustom>Nie można zająć się {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize (incapable of {0}) -->
-  <CannotMissingHealthActivities>Nie można zająć się (niezdolny do {0}).</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Nie można się tym zająć (niezdolny do {0}).</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Już zajmuje się {0}: {2_labelShort}</CannotGenericAlreadyAm>
 
   <!-- EN: Cannot prioritize (will never do {0}) -->
-  <CannotPrioritizeWorkTypeDisabled>Nie można zająć się (nigdy nie zrobi {0}).</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Nie można się tym zająć (nigdy nie zrobi {0}).</CannotPrioritizeWorkTypeDisabled>
 
   <!-- EN: Cannot prioritize (will never {0}) -->
-  <CannotPrioritizeWorkGiverDisabled>Nie można zająć się (nigdy nie będzie {0})</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Nie można się tym zająć (nigdy nie będzie {0})</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>nigdy nie będzie {0}</WillNever>
 
   <!-- EN: Cannot prioritize (not assigned to {0}) -->
-  <CannotPrioritizeNotAssignedToWorkType>Nie można zająć się (nie przypisany do: {0}).</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Nie można się tym zająć (nie przypisany do: {0}).</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>nie przypisany</NotAssigned>
 
   <!-- EN: Cannot prioritize (research is a long-term task) -->
-  <CannotPrioritizeResearch>Nie można zająć się (badania są zadaniem długoterminowym)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Nie można się tym zająć (badania są zadaniem długoterminowym)</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
-  <CannotPrioritizeForbidden>Nie można zająć się  ({0} jest zabronione).</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Nie można się tym zająć ({0} jest zabronione).</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize (forbidden) -->
-  <CannotPrioritizeCellForbidden>Nie można zająć się (zabroniono)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>Nie można się tym zająć (zabroniono)</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Nie można zająć się ({0} znajduje się poza dozwolonym obszarem).</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Znajduje się poza dozwolonym obszarem</CannotPrioritizeForbiddenOutsideAllowedArea>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->

@@ -10,9 +10,9 @@
   <!-- EN: skilled labor -->
   <WorkTagManualSkilled>wykwalifikowana praca</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>brutalne</WorkTagViolent>
+  <WorkTagViolent>przemoc</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>opiekuńcze</WorkTagCaring>
+  <WorkTagCaring>opieka</WorkTagCaring>
   <!-- EN: social -->
   <WorkTagSocial>społeczne</WorkTagSocial>
   <!-- EN: animals -->
@@ -20,17 +20,17 @@
   <!-- EN: artistic -->
   <WorkTagArtistic>artystyczne</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>rzemieślnicze</WorkTagCrafting>
+  <WorkTagCrafting>wytwarzanie</WorkTagCrafting>
   <!-- EN: cooking -->
   <WorkTagCooking>gotowanie</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>strażackie</WorkTagFirefighting>
+  <WorkTagFirefighting>gaszenie pożarów</WorkTagFirefighting>
   <!-- EN: cleaning -->
   <WorkTagCleaning>sprzątanie</WorkTagCleaning>
   <!-- EN: hauling -->
   <WorkTagHauling>transport</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>ogrodnicze</WorkTagPlantWork>
+  <WorkTagPlantWork>roślinne</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>górnictwo</WorkTagMining>
 

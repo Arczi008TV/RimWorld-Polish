@@ -66,7 +66,7 @@
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Myśliwi nie mają broni</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>Kolonista został wyznaczony na myśliwego, ale nie ma broni. Nie będzie mógł polować, dopóki jakiejś nie dostanie.\n\nAby zredukować prawdopodobieństwo zranienia kolonisty, polecamy broń zasięgową.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Kolonista został wyznaczony na myśliwego, ale nie ma broni dystansowej. Nie będzie mógł polować, dopóki jakiejś nie dostanie.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Zniszczone ubrania</AlertTatteredApparel>
