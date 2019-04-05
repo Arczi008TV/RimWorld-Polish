@@ -149,7 +149,7 @@
   <!-- EN: No medical care -->
   <MedicalCareCategory_NoCare>Bez opieki medycznej</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Opieka lekarska, ale bez leków</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>Opieka medyczna, ale bez leków</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
   <MedicalCareCategory_HerbalOrWorse>Ziołowe leki albo gorsze</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->

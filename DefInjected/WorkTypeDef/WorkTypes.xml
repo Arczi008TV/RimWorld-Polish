@@ -17,9 +17,9 @@
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>asystowanie</BasicWorker.gerundLabel>
   <!-- EN: Basic -->
-  <BasicWorker.labelShort>Podstawy</BasicWorker.labelShort>
+  <BasicWorker.labelShort>Asystent</BasicWorker.labelShort>
   <!-- EN: Worker -->
-  <BasicWorker.pawnLabel>Asystent</BasicWorker.pawnLabel>
+  <BasicWorker.pawnLabel>Pracownik</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
   <BasicWorker.verb>Zajmuje się</BasicWorker.verb>
   
@@ -57,7 +57,7 @@
   <Cooking.verb>Gotuje</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>Wykonuj ogólne niskowykwalifikowane czynności przy stanowiskach pracy. Obejmuje to kamieniarstwo, wytapianie i inne.</Crafting.description>
+  <Crafting.description>Wykonuj ogólne nisko-wykwalifikowane czynności przy stanowiskach pracy. Obejmuje to kamieniarstwo, wytapianie i inne.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>rzemiosło</Crafting.gerundLabel>
   <!-- EN: Craft -->
@@ -68,7 +68,7 @@
   <Crafting.verb>Tworzy przy</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>Lecz chorych, przynoś im jedzenie, rozweselaj i wykonywanuj przydziele zabiegi operacyjne. Lekarze będą opiekować się zarówno kolonistami, jak i więźniami.</Doctor.description>
+  <Doctor.description>Lecz chorych, przynoś im jedzenie, rozweselaj i wykonuj przydzielone zabiegi operacyjne. Lekarze będą opiekować się zarówno kolonistami, jak i więźniami.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>medycyna</Doctor.gerundLabel>
   <!-- EN: Doctor -->
@@ -76,7 +76,7 @@
   <!-- EN: Doctor -->
   <Doctor.pawnLabel>Lekarz</Doctor.pawnLabel>
   <!-- EN: Care for -->
-  <Doctor.verb>Leczę</Doctor.verb>
+  <Doctor.verb>Leczy</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>Gaś pożary w kolonii.</Firefighter.description>
@@ -87,7 +87,7 @@
   <!-- EN: Firefighter -->
   <Firefighter.pawnLabel>Strażak</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
-  <Firefighter.verb>Gaszę</Firefighter.verb>
+  <Firefighter.verb>Gasi</Firefighter.verb>
   
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Sadź nasiona i zbieraj plony </Growing.description>

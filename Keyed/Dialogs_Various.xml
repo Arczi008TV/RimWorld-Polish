@@ -557,7 +557,7 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Nigdy nie zabraknie jedzenia</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Przybliżona liczba dni, w których co najmniej jedna osoba lub zwierzę będzie pozbawiona żywności. Ludzie i odmienne gatunki zwierząt potrzebują różnych rodzajów żywności, więc komuś może zabraknąć pożywienia przed innymi. Ta wartość jest obliczana dokładniej po wybraniu trasy.\n\nZależne od:\n  - Ilości i typu niesionej żywności\n  - Uczestników karawany i ich diety\n  - Intensywności zbiorów\n  - Możliwości wypasu zwierząt\n  - Czasu zanim żywność zgnije\n  - Temperatury powietrza</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Przybliżona liczba dni, w których co najmniej jedna osoba lub zwierzę będzie pozbawiona żywności. Ludzie i odmienne gatunki zwierząt potrzebują różnych rodzajów żywności, więc komuś może zabraknąć pożywienia przed innymi. Ta wartość jest obliczana dokładniej po wybraniu trasy.\n\nZależne od:\n  - Ilości i typu niesionej żywności\n  - Uczestników karawany i ich diety\n  - Intensywności zbiorów\n  - Możliwości wypasu zwierząt\n  - Czasu zanim żywność zgnije\n  - Upalna pogoda przyśpiesza gnicie</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -711,7 +711,7 @@
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>Polityka wobec narkotyków</DrugPolicy>
+  <DrugPolicy>Polityka narkotyków</DrugPolicy>
   <!-- EN: Select policy... -->
   <SelectDrugPolicy>Wybierz politykę...</SelectDrugPolicy>
   <!-- EN: New policy -->
@@ -719,9 +719,9 @@
   <!-- EN: Delete policy... -->
   <DeleteDrugPolicy>Usuń politykę...</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Polityka wobec narkotyków jest używana przez {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>Polityka narkotyków jest używana przez {0}.</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Ograniczenia żywności są w użyciu przez {0}.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>Dieta jest w użyciu przez {0}.</FoodRestrictionInUse>
   <!-- EN: Social drugs -->
   <SocialDrugs>Narkotyki społeczne</SocialDrugs>
   <!-- EN: No drugs -->
@@ -731,7 +731,7 @@
   <!-- EN: Unrestricted -->
   <Unrestricted>Bez ograniczeń</Unrestricted>
   <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Nie wybrano polityki wobec narkotyków</NoDrugPolicySelected>
+  <NoDrugPolicySelected>Nie wybrano polityki narkotyków</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
   <AddDrug>Dodaj narkotyk...</AddDrug>
   <!-- EN: Drug -->
@@ -835,19 +835,19 @@
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>Czy na pewno chcesz wygnać {0}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>Czy na pewno chcesz wygnać {1_label}?</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{0} prawdopodobnie umrze.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} prawdopodobnie umrze.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{0} weźmie następujące rzeczy razem z [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} weźmie następujące rzeczy razem z {1_objective}:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
   <ConfirmBanishPawnDialog_AllColonistsThoughts>Wszyscy koloniści będą mieli następujące myśli:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>Wygnanie {0} spowoduje że następujące osoby będą miały następujące myśli:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Wygnanie {1_labelShort} spowoduje że następujące osoby będą miały następujące myśli:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Grupa kapsuł nie jest załadowana do końca. Brakuje {0}. Wystrzelić mimo to?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Grupa kapsuł nie jest załadowana do końca. Brakuje {1_labelShort}. Wystrzelić mimo to?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->

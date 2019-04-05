@@ -35,9 +35,9 @@
   <!-- EN: Edit... -->
   <AssignTabEdit>Edytuj...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>Zarządzaj polityką wobec narkotyków</ManageDrugPolicies>
+  <ManageDrugPolicies>Zarządzaj polityką narkotyków</ManageDrugPolicies>
   <!-- EN: Manage food restrictions -->
-  <ManageFoodRestrictions>Zarządzaj ograniczeniami żywności</ManageFoodRestrictions>
+  <ManageFoodRestrictions>Zarządzaj dietą</ManageFoodRestrictions>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->

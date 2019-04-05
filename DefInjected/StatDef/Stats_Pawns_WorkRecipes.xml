@@ -66,7 +66,7 @@
   <TailoringSpeed.description>Szybkość, z jaką ta osoba szyje ubrania.</TailoringSpeed.description>
   
   <!-- EN: unskilled labor speed -->
-  <UnskilledLaborSpeed.label>prędkość niewykwalifikowanych prac</UnskilledLaborSpeed.label>
+  <UnskilledLaborSpeed.label>prędkość niewykwalifik. prac</UnskilledLaborSpeed.label>
   <!-- EN: The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items. -->
   <UnskilledLaborSpeed.description>Szybkość, z jaką ta osoba wykonuje niewykwalifikowaną robociznę, taką jak robienie kamiennych bloków, chemiopaliwa w rafinerii lub spalanie przedmiotów.</UnskilledLaborSpeed.description>
   

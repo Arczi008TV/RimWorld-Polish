@@ -4,27 +4,27 @@
   <!-- EN: beauty -->
   <Beauty.label>piękno</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>Piękno odzwierciedla, jak miłe dla oka jest otoczenie, w którym znajduje się dana osoba.</Beauty.description>
+  <Beauty.description>Odzwierciedla, jak atrakcyjne dla oka jest otoczenie, w którym znajduje się dana osoba.</Beauty.description>
   
   <!-- EN: comfort -->
   <Comfort.label>komfort</Comfort.label>
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
-  <Comfort.description>Komfort zyskiwany jest przez siedzenie lub spanie na wygodnych meblach.</Comfort.description>
+  <Comfort.description>Zyskiwany jest przez siedzenie lub spanie na wygodnych meblach.</Comfort.description>
   
   <!-- EN: food -->
   <Food.label>jedzenie</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>Jedzenie jest ilością pokarmu, jaką postać niedawno zjadła. Jeżeli wyniesie ona zero, dana postać stanie się ekstremalnie niedożywiona i będzie mogła nawet umrzeć.</Food.description>
+  <Food.description>Jest ilością pokarmu, jaką postać niedawno zjadła. Jeżeli wyniesie ona zero, dana postać stanie się ekstremalnie niedożywiona i będzie mogła nawet umrzeć.</Food.description>
   
   <!-- EN: recreation -->
   <Joy.label>rozrywka</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
-  <Joy.description>Rozrywka reprezentuje potrzebę zrobienia czegoś przyjemnego od czasu do czasu. Zauważ, że powtarzanie tej samej czynności jest mniej efektywną metodą uzyskiwania rozrywki.</Joy.description>
+  <Joy.description>Reprezentuje potrzebę zrobienia czegoś przyjemnego od czasu do czasu. Zauważ, że powtarzanie tej samej czynności jest mniej efektywną metodą uzyskiwania rozrywki.</Joy.description>
   
   <!-- EN: mood -->
   <Mood.label>nastrój</Mood.label>
   <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
-  <Mood.description>Nastrój reprezentuje poziom zadowolenia lub zestresowania kolonistów. Jeżeli nastrój będzie zbyt niski, kolonista może przejść załamanie nerwowe. Występuje kilka kategorii załamania nerwowego, które posiadają różną intensywność.</Mood.description>
+  <Mood.description>Reprezentuje poziom zadowolenia lub zestresowania kolonistów. Jeżeli nastrój będzie zbyt niski, kolonista może przejść załamanie nerwowe. Występuje kilka kategorii załamania nerwowego, które posiadają różną intensywność.</Mood.description>
   
   <!-- EN: outdoors -->
   <Outdoors.label>TODO</Outdoors.label>
@@ -34,10 +34,11 @@
   <!-- EN: rest -->
   <Rest.label>odpoczynek</Rest.label>
   <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>Odpoczynek pokazuje, ile postać ostatnio spała.</Rest.description>
+  <Rest.description>Wskazuje, ile postać ostatnio spała.</Rest.description>
   
   <!-- EN: room size -->
-  <RoomSize.label>TODO</RoomSize.label>
+  <RoomSize.label>wielkość pomieszczenia</RoomSize.label>
+  <RoomSize.description>Wskazuje, jak bardzo ktoś jest zadowolony z rozmiaru obecnego pokoju.</RoomSize.description>
   
   <!-- UNUSED -->
   <Space.label>przestrzeń</Space.label>

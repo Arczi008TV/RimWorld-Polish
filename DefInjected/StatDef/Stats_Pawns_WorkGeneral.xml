@@ -27,9 +27,9 @@
   <FixBrokenDownBuildingSuccessChance.description>Szansa, jaką ta osoba ma na powodzenie naprawy zniszczonej konstrukcji. Niepowodzenie oznacza zmarnowanie czasu i surowców.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
-  <HuntingStealth.label>TODO</HuntingStealth.label>
+  <HuntingStealth.label>kamuflaż myśliwski</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack. -->
-  <HuntingStealth.description>TODO</HuntingStealth.description>
+  <HuntingStealth.description>Atrybut ten redukuje szansę bycia zaatakowanym przez zwierzę podczas polowań. Wartość 0% oznacza brak redukcji. Wartość 100% oznacza, że zwierzę nigdy nie zaatakuje.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
   <MiningSpeed.label>szybkość kopania</MiningSpeed.label>
