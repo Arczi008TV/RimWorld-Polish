@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: cassowary egg (fert.) -->
-  <EggCassowaryFertilized.label>TODO</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.label>jajo kazuara (zapłod.)</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
   <EggCassowaryFertilized.description>TODO</EggCassowaryFertilized.description>
   
   <!-- EN: chicken egg (fert.) -->
-  <EggChickenFertilized.label>TODO</EggChickenFertilized.label>
+  <EggChickenFertilized.label>kurze jajo (zapłod.)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
   <EggChickenFertilized.description>TODO</EggChickenFertilized.description>
   
   <!-- EN: chicken egg (unfert.) -->
-  <EggChickenUnfertilized.label>TODO</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.label>kurze jajo (niezapłod.)</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
   <EggChickenUnfertilized.description>TODO</EggChickenUnfertilized.description>
   
   <!-- EN: cobra egg (fert.) -->
-  <EggCobraFertilized.label>TODO</EggCobraFertilized.label>
+  <EggCobraFertilized.label>jajo kobry (zapłod.)</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
   <EggCobraFertilized.description>TODO</EggCobraFertilized.description>
   
   <!-- EN: emu egg (fert.) -->
-  <EggEmuFertilized.label>TODO</EggEmuFertilized.label>
+  <EggEmuFertilized.label>jajo emu (zapłod.)</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
   <EggEmuFertilized.description>TODO</EggEmuFertilized.description>
   
@@ -42,7 +42,7 @@
   <EggTortoiseFertilized.description>TODO</EggTortoiseFertilized.description>
   
   <!-- EN: turkey egg (fert.) -->
-  <EggTurkeyFertilized.label>TODO</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.label>indycze jajo (zapłod.)</EggTurkeyFertilized.label>
   <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
   <EggTurkeyFertilized.description>TODO</EggTurkeyFertilized.description>
   
@@ -52,8 +52,8 @@
   <InsectJelly.description>TODO</InsectJelly.description>
   
   <!-- EN: milk -->
-  <Milk.label>TODO</Milk.label>
+  <Milk.label>mleko</Milk.label>
   <!-- EN: Milk from an animal. -->
-  <Milk.description>TODO</Milk.description>
+  <Milk.description>mleko zwierzęce.</Milk.description>
   
 </LanguageData>

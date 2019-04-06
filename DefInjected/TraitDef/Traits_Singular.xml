@@ -121,14 +121,14 @@
   <Pyromaniac.degreeDatas.pyromaniac.description>[PAWN_nameDef] kocha ogień. Będzie [PAWN_pronoun] czasami rozniecać pożary, nie chcąc ich ugasić.</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>TODO</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>łatwo śpiący</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef} nie potrzebuje tak wiele snu jak przeciętna osoba. Nie ważne czy {PAWN_pronoun} śpi na podłodze czy na łóżku, {PAWN_pronoun} będzie zawsze w pełni wypoczęty w przeciągu dwóch trzecich typowego czasu.</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: too smart -->
   <TooSmart.degreeDatas.too_smart.label>geniusz</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>[PAWN_nameDef] to niesamowicie inteligentna osoba. Uczy się [PAWN_pronoun] wszystkiego znacznie szybciej, ale [PAWN_possessive] zachowanie może być postrzegane jako nieco... ekscentryczne.</TooSmart.degreeDatas.too_smart.description>
+  <TooSmart.degreeDatas.too_smart.description>{PAWN_nameDef} to niesamowicie inteligentna osoba. {PAWN_pronoun} uczy się wszystkiego znacznie szybciej, ale zachowanie {PAWN_possessive} może być postrzegane jako nieco... ekscentryczne.</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tough -->
   <Tough.degreeDatas.tough.label>twardziel</Tough.degreeDatas.tough.label>

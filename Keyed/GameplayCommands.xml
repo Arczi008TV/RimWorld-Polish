@@ -390,7 +390,7 @@
   <!-- EN: Launch group -->
   <CommandLaunchGroup>Wystrzel grupę</CommandLaunchGroup>
   <!-- EN: Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together. -->
-  <CommandLaunchGroupDesc>Inicjalizuje docelowy proces wystrzału grupy kapsuł transportowych. Następny krok to wybranie celu. Kapsuły będą razem lecieć i wspólnie wylądują.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>Rozpoczyna docelowy proces wystrzału grupy kapsuł transportowych. Następny krok to wybranie celu. Kapsuły będą razem lecieć i wspólnie wylądują.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Niektóre kapsuły transportowe w tej grupie nie są połączone z portem tankującym.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->

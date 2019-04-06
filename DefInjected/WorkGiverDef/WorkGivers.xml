@@ -534,11 +534,11 @@
   <TakePrisonerToBed.verb>zabieraniem do łóżka</TakePrisonerToBed.verb>
   
   <!-- EN: take patients to bed for operations -->
-  <TakeToBedToOperate.label>TODO</TakeToBedToOperate.label>
+  <TakeToBedToOperate.label>zabieraj pacjentów na operację</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
-  <TakeToBedToOperate.gerund>TODO</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.gerund>zabieranie na operację</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
-  <TakeToBedToOperate.verb>TODO</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.verb>zabieraniem na operację</TakeToBedToOperate.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>oswajaj zwierzęta</Tame.label>
@@ -562,11 +562,11 @@
   <Uninstall.verb>deinstalowaniem</Uninstall.verb>
   
   <!-- EN: unload carriers -->
-  <UnloadCarriers.label>TODO</UnloadCarriers.label>
+  <UnloadCarriers.label>rozładowuj przewoźników</UnloadCarriers.label>
   <!-- EN: unloading -->
-  <UnloadCarriers.gerund>TODO</UnloadCarriers.gerund>
+  <UnloadCarriers.gerund>rozładowywanie</UnloadCarriers.gerund>
   <!-- EN: unload -->
-  <UnloadCarriers.verb>TODO</UnloadCarriers.verb>
+  <UnloadCarriers.verb>rozładowywaniem</UnloadCarriers.verb>
   
   <!-- EN: visit sick people -->
   <VisitSickPawn.label>odwiedzaj chorych</VisitSickPawn.label>

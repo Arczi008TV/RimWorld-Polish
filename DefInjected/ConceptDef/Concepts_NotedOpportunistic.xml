@@ -62,9 +62,9 @@
   <PrisonerTab.helpText>Sprawdź zakładkę więźnia po kliknięciu na niego, aby ustawić, jak ma być traktowany.\n\nMożesz zdecydować, czy zostanie zrekrutowany, zignorowany lub poddany egzekucji, czy otrzyma jedzenie i jakiego rodzaju opieka medyczna mu się należy.\n\nKoloniści będący strażnikami zajmą się więźniem.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
-  <QueueOrders.label>TODO</QueueOrders.label>
+  <QueueOrders.label>Kolejka poleceń</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>TODO</QueueOrders.helpText>
+  <QueueOrders.helpText>Możesz przypisać osadnikom wiele zadań na raz, przytrzymując „SHIFT”. Działa to również w przypadku nieprzypisanych osadników.</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Przegrupowanie karawan</ReformCaravan.label>
