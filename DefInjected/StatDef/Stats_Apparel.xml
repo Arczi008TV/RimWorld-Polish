@@ -40,12 +40,12 @@
   <EquipDelay.formatString>{0} sek</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
-  <Insulation_Cold.label>Izolacja - chłód</Insulation_Cold.label>
+  <Insulation_Cold.label>Izolacja - Chłód</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature. Greater values allow surviving in colder temperatures. -->
   <Insulation_Cold.description>Określa, o ile zmienia się minimalna komfortowa temperatura dla noszącego.</Insulation_Cold.description>
   
   <!-- EN: Insulation - Heat -->
-  <Insulation_Heat.label>Izolacja - ciepło</Insulation_Heat.label>
+  <Insulation_Heat.label>Izolacja - Ciepło</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature. Greater values allow surviving in warmer temperatures. -->
   <Insulation_Heat.description>Określa, o ile zmienia się maksymalna komfortowa temparatura dla noszącego.</Insulation_Heat.description>
   
@@ -60,9 +60,9 @@
   <StuffEffectMultiplierArmor.label>TODO</StuffEffectMultiplierArmor.label>
   
   <!-- EN: Insulation - Cold - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Cold.label>TODO</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Izolacja - Chłód - Mnożnik efektu materialnego</StuffEffectMultiplierInsulation_Cold.label>
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Heat.label>TODO</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Izolacja - Ciepło - Mnożnik efektu materialnego</StuffEffectMultiplierInsulation_Heat.label>
   
 </LanguageData>

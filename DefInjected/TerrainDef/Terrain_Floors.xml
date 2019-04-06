@@ -54,7 +54,7 @@
   <!-- EN: sterile tile -->
   <SterileTile.label>sterylne płytki</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>Sterylne płytki pomagają utrzymać pomieszczenie w czystości. Najużyteczniejsze w szpitalu, bo zapobiegają infekcjom. Neutralne, jeżeli chodzi o wyglad i wolne w budowaniu.</SterileTile.description>
+  <SterileTile.description>Sterylne płytki pomagają utrzymać pomieszczenie w czystości. Najużyteczniejsze w szpitalu, bo zapobiegają infekcjom. Neutralne, jeżeli chodzi o wygląd i wolne w budowaniu.</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>drewniana podłoga</WoodPlankFloor.label>

@@ -31,12 +31,4 @@
   <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
   <Rough.description>TODO</Rough.description>
   
-  <!-- UNUSED -->
-  <VeryEasy.label>Budowniczy</VeryEasy.label>
-  <VeryEasy.description>Dla tych, którzy chcą stworzyć kolonię z delikatnym posmakiem zagrożenia.\n\nZagrożenia się pojawiają, ale są osłabione. Niektóre groźniejsze zdarzenia są wyłączone.</VeryEasy.description>
-  
-  <!-- UNUSED -->
-  <VeryHard.label>Ekstremalny</VeryHard.label>
-  <VeryHard.description>Tryb ostry jak sztylet z diamentową klingą.\n\nWrogowie są silni, nagrody znikome, brakuje pożywienia, a koloniści często mają zły humor. Dla tych, którzy kochają cyfrowe cierpienie.</VeryHard.description>
-  
 </LanguageData>
