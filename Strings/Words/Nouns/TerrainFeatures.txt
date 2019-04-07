@@ -9,7 +9,7 @@ pustynia
 grań
 skała
 las
-drzewo1
+drzewo
 grzbiet
 dolina
 płaskowyż

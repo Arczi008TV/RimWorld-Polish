@@ -6,7 +6,6 @@
   
   <!-- EN: cancel -->
   <Cancel.label>anuluj</Cancel.label>
-  <Designator_Cancel.label>anuluj</Designator_Cancel.label>
   
   <!-- EN: draft -->
   <Command_ColonistDraft.label>służba</Command_ColonistDraft.label>
@@ -16,7 +15,10 @@
   
   <!-- EN: toggle power -->
   <Command_TogglePower.label>zasilanie</Command_TogglePower.label>
-
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>anuluj</Designator_Cancel.label>
+  
   <!-- EN: deconstruct -->
   <Designator_Deconstruct.label>rozbierz</Designator_Deconstruct.label>
   

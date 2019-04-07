@@ -3,6 +3,7 @@
   
   <!-- EN: cassowary -->
   <Cassowary.label>kazuar</Cassowary.label>
+  <!-- EN: cassowaries -->
   <Cassowary.labelPlural>kazuary</Cassowary.labelPlural>
   <Cassowary.lifeStages.0.label>pisklę kazuara</Cassowary.lifeStages.0.label>
   <Cassowary.lifeStages.0.labelPlural>pisklęta kazuara</Cassowary.lifeStages.0.labelPlural>
@@ -21,6 +22,7 @@
   
   <!-- EN: ostrich -->
   <Ostrich.label>struś</Ostrich.label>
+  <!-- EN: ostriches -->
   <Ostrich.labelPlural>strusie</Ostrich.labelPlural>
   <Ostrich.lifeStages.0.label>pisklę strusia</Ostrich.lifeStages.0.label>
   <Ostrich.lifeStages.0.labelPlural>pisklęta strusia</Ostrich.lifeStages.0.labelPlural>

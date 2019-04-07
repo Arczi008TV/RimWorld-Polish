@@ -100,9 +100,9 @@
   <!-- EN: Smoothed natural {0} floor. -->
   <SmoothStoneTerrainDesc>wygładzona podłoga - {0}.</SmoothStoneTerrainDesc>
 
-  <!-- EN: (blueprint) -->
+  <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra> (plan)</BlueprintLabelExtra>
-  <!-- EN: (building) -->
+  <!-- EN:  (building) -->
   <FrameLabelExtra> (budowa)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->

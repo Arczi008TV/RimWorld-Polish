@@ -39,12 +39,6 @@
   <Elk.lifeStages.elk_calf.label>TODO</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
   <Elk.lifeStages.elk_calf.labelPlural>TODO</Elk.lifeStages.elk_calf.labelPlural>
-  <Elk.lifeStages.1.label>TODO</Elk.lifeStages.1.label>
-  <Elk.lifeStages.1.labelFemale>TODO</Elk.lifeStages.1.labelFemale>
-  <Elk.lifeStages.1.labelMale>TODO</Elk.lifeStages.1.labelMale>
-  <Elk.lifeStages.2.label>TODO</Elk.lifeStages.2.label>
-  <Elk.lifeStages.2.labelFemale>TODO</Elk.lifeStages.2.labelFemale>
-  <Elk.lifeStages.2.labelMale>TODO</Elk.lifeStages.2.labelMale>
   
   <!-- EN: ibex -->
   <Ibex.label>koziorożec</Ibex.label>
@@ -54,11 +48,6 @@
   <Ibex.labelMale>koziorożec</Ibex.labelMale>
   <!-- EN: ibex -->
   <Ibex.labelPlural>koziorożce</Ibex.labelPlural>
-  <Ibex.lifeStages.0.label>TODO</Ibex.lifeStages.0.label>
-  <Ibex.lifeStages.1.label>TODO</Ibex.lifeStages.1.label>
-  <Ibex.lifeStages.1.labelFemale>TODO</Ibex.lifeStages.1.labelFemale>
-  <Ibex.lifeStages.1.labelMale>TODO</Ibex.lifeStages.1.labelMale>
-  <Ibex.lifeStages.2.label>TODO</Ibex.lifeStages.2.label>
   <Ibex.lifeStages.2.labelFemale>kozica</Ibex.lifeStages.2.labelFemale>
   <Ibex.lifeStages.2.labelFemalePlural>kozice</Ibex.lifeStages.2.labelFemalePlural>
   <Ibex.lifeStages.2.labelMale>koziorożec</Ibex.lifeStages.2.labelMale>
@@ -66,10 +55,6 @@
   
   <!-- EN: tortoise -->
   <Tortoise.label>TODO</Tortoise.label>
-  <Tortoise.labelPlural>TODO</Tortoise.labelPlural>
-  <Tortoise.lifeStages.0.label>TODO</Tortoise.lifeStages.0.label>
-  <Tortoise.lifeStages.1.label>TODO</Tortoise.lifeStages.1.label>
-  <Tortoise.lifeStages.2.label>TODO</Tortoise.lifeStages.2.label>
   
   <!-- EN: wild boar -->
   <WildBoar.label>dzik</WildBoar.label>
