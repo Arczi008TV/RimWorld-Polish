@@ -54,7 +54,6 @@
   <!-- EN: {0} in the {1} -->
   <Burn.labelNounPretty>{0} na {1}</Burn.labelNounPretty>
   
-  
   <!-- EN: crack -->
   <Crack.label>złamanie</Crack.label>
   <!-- EN: set -->
@@ -203,7 +202,7 @@
   <Shredded.labelNoun>rana szarpana</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Shredded.labelNounPretty>{0} na {1}</Shredded.labelNounPretty>
-
+  
   <!-- EN: stab -->
   <Stab.label>rana kłuta</Stab.label>
   <!-- EN: set -->
